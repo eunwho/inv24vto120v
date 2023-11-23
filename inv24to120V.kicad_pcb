@@ -1317,7 +1317,7 @@
 
   (footprint "inv24VLib:IND_HCTI-10-20.0" (layer "F.Cu")
     (tstamp 275e8360-779e-4c8a-a980-c046e128c4e0)
-    (at 139 139)
+    (at 139 139 180)
     (property "Sheetfile" "inv24to120V.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Inductor")
@@ -1360,9 +1360,9 @@
       (stroke (width 0.127) (type solid)) (layer "F.Fab") (tstamp 2e91aebb-4e98-4f42-9530-ade96d793005))
     (fp_line (start 8.255 16.256) (end -8.255 16.256)
       (stroke (width 0.127) (type solid)) (layer "F.Fab") (tstamp 9e6aac72-7bc7-4692-b127-4f469855aa86))
-    (pad "1" thru_hole circle (at -7.112 0) (size 2.82 2.82) (drill 1.88) (layers "*.Cu" "*.Mask")
+    (pad "1" thru_hole circle (at -7.112 0 180) (size 2.82 2.82) (drill 1.88) (layers "*.Cu" "*.Mask")
       (net 80 "VBUS") (pinfunction "1") (pintype "passive") (solder_mask_margin 0.102) (tstamp c8faa2e9-657d-4ed2-bfc4-6e381562b73c))
-    (pad "2" thru_hole circle (at 7.112 0) (size 2.82 2.82) (drill 1.88) (layers "*.Cu" "*.Mask")
+    (pad "2" thru_hole circle (at 7.112 0 180) (size 2.82 2.82) (drill 1.88) (layers "*.Cu" "*.Mask")
       (net 87 "Net-(D8-K)") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp 9b6c9349-870f-42fd-8e8f-433aa3758e5f))
     (model "${KIPRJMOD}/inv24VLib/ATCA-08-471M-V.STEP"
       (offset (xyz 0 0 21))
@@ -5187,7 +5187,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
     (tstamp 80c3bdc4-8a78-47bc-b9f9-b9621de9a361)
-    (at 143 51.16 90)
+    (at 124.5 60.66 90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "inv24to120V.kicad_sch")
