@@ -173,7 +173,11 @@
       ],
       "track_widths": [
         0.0,
-        4.0
+        0.25,
+        0.5,
+        1.0,
+        2.0,
+        5.0
       ],
       "via_dimensions": [
         {
@@ -430,7 +434,24 @@
       },
       {
         "bus_width": 12,
-        "clearance": 4.0,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "analog",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(255, 153, 0)",
+        "track_width": 0.25,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 8
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -440,23 +461,71 @@
         "name": "dc_link",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 5.0,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 8
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "ground",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(0, 194, 0)",
         "track_width": 2.0,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6
+        "wire_width": 8
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "power",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 2.0,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 8
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "switching",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(255, 0, 255)",
+        "track_width": 4.0,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 8
       }
     ],
     "meta": {
       "version": 3
     },
     "net_colors": {
-      "+15V": "rgb(255, 255, 0)",
-      "+24V": "rgb(194, 194, 0)",
-      "+3.3V": "rgb(255, 0, 0)",
-      "+5V": "rgb(194, 0, 0)",
-      "GND": "rgb(0, 132, 0)",
+      "+15V": "rgb(255, 0, 255)",
+      "+5VP": "rgb(72, 0, 72)",
       "GND2": "rgb(0, 72, 0)",
-      "GNDPWR": "rgb(0, 72, 0)"
+      "GNDPWR": "rgb(0, 132, 0)"
     },
     "netclass_assignments": null,
     "netclass_patterns": [
@@ -479,6 +548,54 @@
       {
         "netclass": "dc_link",
         "pattern": "GNDPWR"
+      },
+      {
+        "netclass": "switching",
+        "pattern": "/pri1"
+      },
+      {
+        "netclass": "switching",
+        "pattern": "/pri2"
+      },
+      {
+        "netclass": "switching",
+        "pattern": "+24V"
+      },
+      {
+        "netclass": "analog",
+        "pattern": "I_Uphase"
+      },
+      {
+        "netclass": "analog",
+        "pattern": "I_Vphase"
+      },
+      {
+        "netclass": "analog",
+        "pattern": "VDC_sensor"
+      },
+      {
+        "netclass": "analog",
+        "pattern": "TEMPERATURE_IPM"
+      },
+      {
+        "netclass": "power",
+        "pattern": "+5V"
+      },
+      {
+        "netclass": "ground",
+        "pattern": "GND"
+      },
+      {
+        "netclass": "power",
+        "pattern": "+5VP"
+      },
+      {
+        "netclass": "ground",
+        "pattern": "GND2"
+      },
+      {
+        "netclass": "power",
+        "pattern": "+3.3V"
       }
     ]
   },
