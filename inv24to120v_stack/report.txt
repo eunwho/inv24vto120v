@@ -1,0 +1,1183 @@
+정보: 심볼 'U8:inv24VLib:SOIC127P1150X280-8N' 처리 중입니다.
+정보: 심볼 'C11:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R23:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'F2:inv24VLib:FUSE_3544-2' 처리 중입니다.
+정보: 심볼 'R24:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'F1:inv24VLib:FUSE_3544-2' 처리 중입니다.
+정보: 심볼 'R25:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'D9:inv24VLib:TO507P1020X460X2000-2' 처리 중입니다.
+정보: 심볼 'R26:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'D8:inv24VLib:TO507P1020X460X2000-2' 처리 중입니다.
+정보: 심볼 'R27:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'D7:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'D6:Diode_THT:D_DO-201AD_P15.24mm_Horizontal' 처리 중입니다.
+정보: 심볼 'R28:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R22:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'Q7:Package_TO_SOT_THT:TO-92_Inline' 처리 중입니다.
+정보: 심볼 'R9:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'Q6:Package_TO_SOT_THT:TO-92_Inline' 처리 중입니다.
+정보: 심볼 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'Q5:Package_TO_SOT_THT:TO-92_Inline' 처리 중입니다.
+정보: 심볼 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'Q4:Package_TO_SOT_THT:TO-92_Inline' 처리 중입니다.
+정보: 심볼 'R4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'Q3:Package_TO_SOT_THT:TO-92_Inline' 처리 중입니다.
+정보: 심볼 'R5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'Q2:Package_TO_SOT_THT:TO-220-3_Vertical' 처리 중입니다.
+정보: 심볼 'R6:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'R13:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'R7:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'L4:inv24VLib:IND_HCTI-10-20.0' 처리 중입니다.
+정보: 심볼 'L3:Inductor_THT:L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3' 처리 중입니다.
+정보: 심볼 'R8:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'C28:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'U5:Package_TO_SOT_THT:TO-220-5_Vertical' 처리 중입니다.
+정보: 심볼 'BX3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'C3:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm' 처리 중입니다.
+정보: 심볼 'BX2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'BX6:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'C2:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm' 처리 중입니다.
+정보: 심볼 'BX5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'C5:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'C4:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm' 처리 중입니다.
+정보: 심볼 'X1:inv24VLib:ee42208x8p' 처리 중입니다.
+정보: 심볼 'U10:Package_DIP:DIP-4_W7.62mm' 처리 중입니다.
+정보: 심볼 'C8:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'BX4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'C6:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'L2:Inductor_THT:L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3' 처리 중입니다.
+정보: 심볼 'BX1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'C1:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm' 처리 중입니다.
+정보: 심볼 'U7:inv24VLib:SOIC127P1030X265-16N' 처리 중입니다.
+정보: 심볼 'C7:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'J7:TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-03_P10.00mm' 처리 중입니다.
+정보: 심볼 'R14:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'J6:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal' 처리 중입니다.
+정보: 심볼 'R15:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'J5:TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-02_P10.00mm' 처리 중입니다.
+정보: 심볼 'R16:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'R17:Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal' 처리 중입니다.
+정보: 심볼 'J4:Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical' 처리 중입니다.
+정보: 심볼 'R18:Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal' 처리 중입니다.
+정보: 심볼 'R19:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'R20:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'U9:Package_DIP:DIP-4_W7.62mm' 처리 중입니다.
+정보: 심볼 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'C10:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'U6:inv24VLib:SOIC127P1030X265-16N' 처리 중입니다.
+정보: 심볼 'C9:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'C17:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R29:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'D4:Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'R30:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'D3:Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'R31:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'D2:Diode_THT:D_DO-201AD_P15.24mm_Horizontal' 처리 중입니다.
+정보: 심볼 'R32:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'D1:Diode_THT:D_DO-201AD_P15.24mm_Horizontal' 처리 중입니다.
+정보: 심볼 'R33:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'C37:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R34:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'C23:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'C35:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm' 처리 중입니다.
+정보: 심볼 'C27:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'C34:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R36:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'C33:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R37:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'C32:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R40:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'C31:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R42:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'C30:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R44:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'C29:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R45:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'R35:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R21:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'U1:inv24VLib:MODULE_ESP32-DEVKITC-32D' 처리 중입니다.
+정보: 심볼 'L1:Inductor_THT:L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3' 처리 중입니다.
+정보: 심볼 'R10:Resistor_SMD:R_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'K1:inv24VLib:RELAY_J0971CS5VDC.45' 처리 중입니다.
+정보: 심볼 'R11:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'J9:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal' 처리 중입니다.
+정보: 심볼 'R12:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'J8:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal' 처리 중입니다.
+정보: 심볼 'Q1:Package_TO_SOT_THT:TO-220-3_Vertical' 처리 중입니다.
+정보: 심볼 'R46:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'C26:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R47:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'C25:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R48:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'C24:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'IC1:inv24VLib:DIP-32' 처리 중입니다.
+정보: 심볼 'C36:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'C12:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'U4:inv24VLib:SOIC127P600X175-8N' 처리 중입니다.
+정보: 심볼 'C13:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'C14:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'U3:inv24VLib:SOIC127P600X175-8N' 처리 중입니다.
+정보: 심볼 'C15:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'C16:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'U2:Package_TO_SOT_THT:TO-220-5_Vertical' 처리 중입니다.
+정보: 심볼 'D5:Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal' 처리 중입니다.
+정보: 심볼 'C18:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'C20:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'C21:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'C22:inv24VLib:CAPPRD1000W160D3600H5200' 처리 중입니다.
+BX4이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+참조 지정자 REF**을(를) BX4(으)로 변경하였습니다.
+값 BX4을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 0(으)로 변경하였습니다.
+BX4 심볼 관련성을 에서 /851fc537-705d-4e11-a1cf-702873f8cb67(으)로 업데이트하였습니다.
+C4 핀 2을(를) GND2에 연결했습니다.
+참조 지정자 REF**을(를) C11(으)로 변경하였습니다.
+C4 핀 1을(를) +5VP에 연결했습니다.
+BX5이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+참조 지정자 REF**을(를) BX5(으)로 변경하였습니다.
+값 BX5을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 0(으)로 변경하였습니다.
+BX5 심볼 관련성을 에서 /1540f66a-c3e5-4bdd-9356-7b6be336a4cd(으)로 업데이트하였습니다.
+BX5 속성이 업데이트되었습니다.
+BX5 핀 1을(를) GND에 연결했습니다.
+BX4 속성이 업데이트되었습니다.
+BX4 핀 1을(를) +5V에 연결했습니다.
+BX4 핀 2을(를) VTH_IPM에 연결했습니다.
+C3 심볼 관련성을 에서 /cac46e4e-fd1c-40ac-a0cd-08f2f604f3ac(으)로 업데이트하였습니다.
+값 C10을(를) C_0805_2012Metric에서 104(으)로 변경하였습니다.
+C10 심볼 관련성을 에서 /c8421dfa-8499-4ac9-931a-d5a972cbb10f(으)로 업데이트하였습니다.
+C10 속성이 업데이트되었습니다.
+C10 핀 1을(를) +3.3V에 연결했습니다.
+참조 지정자 REF**을(를) C12(으)로 변경하였습니다.
+BX3 핀 1을(를) GND2에 연결했습니다.
+J8 속성이 업데이트되었습니다.
+C11이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+BX3 핀 2을(를) GNDPWR에 연결했습니다.
+BX3 속성이 업데이트되었습니다.
+값 C11을(를) C_0805_2012Metric에서 104(으)로 변경하였습니다.
+C11 심볼 관련성을 에서 /c32cf425-a794-4efb-b07f-41325cfc0603(으)로 업데이트하였습니다.
+C11 속성이 업데이트되었습니다.
+C11 핀 1을(를) GND2에 연결했습니다.
+C11 핀 2을(를) +5VP에 연결했습니다.
+BX1 속성이 업데이트되었습니다.
+C3 핀 1을(를) +15V에 연결했습니다.
+C2 속성이 업데이트되었습니다.
+C2 핀 1을(를) +5V에 연결했습니다.
+C2 핀 2을(를) GND에 연결했습니다.
+C3이(가) 추가되었습니다 (풋프린트 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
+참조 지정자 REF**을(를) C3(으)로 변경하였습니다.
+값 C3을(를) CP_Radial_D8.0mm_P5.00mm에서 470uF/50V(으)로 변경하였습니다.
+J8 핀 3을(를) Net-(J8-Pin_3)에 연결했습니다.
+BX5 핀 2을(를) Net-(BX5-Pad2)에 연결했습니다.
+참조 지정자 REF**을(를) BX2(으)로 변경하였습니다.
+C3 핀 2을(를) GND2에 연결했습니다.
+C4이(가) 추가되었습니다 (풋프린트 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
+참조 지정자 REF**을(를) C4(으)로 변경하였습니다.
+값 C4을(를) CP_Radial_D8.0mm_P5.00mm에서 100uF/50V(으)로 변경하였습니다.
+C4 심볼 관련성을 에서 /1267918b-d675-423d-b67b-d30cae01a5f7(으)로 업데이트하였습니다.
+C4 속성이 업데이트되었습니다.
+값 J9을(를) TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal에서 Screw_Terminal_01x02(으)로 변경하였습니다.
+BX1 핀 1을(를) Net-(J6-Pin_1)에 연결했습니다.
+값 BX1을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 0(으)로 변경하였습니다.
+BX1 심볼 관련성을 에서 /8fc48509-f7ac-47ec-868e-928c9737f1fd(으)로 업데이트하였습니다.
+C10 핀 2을(를) GND에 연결했습니다.
+참조 지정자 REF**을(를) BX1(으)로 변경하였습니다.
+값 BX3을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 0(으)로 변경하였습니다.
+참조 지정자 REF**을(를) BX3(으)로 변경하였습니다.
+BX3이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+BX2 핀 2을(를) GND에 연결했습니다.
+BX2 핀 1을(를) Net-(J6-Pin_3)에 연결했습니다.
+BX2 속성이 업데이트되었습니다.
+BX2 심볼 관련성을 에서 /3aca6feb-6de4-4d7f-a085-984d983aad55(으)로 업데이트하였습니다.
+값 BX2을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 0(으)로 변경하였습니다.
+BX3 심볼 관련성을 에서 /f972ab40-23f3-4345-a0af-8ec0f0e593d5(으)로 업데이트하였습니다.
+BX2이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+BX1 핀 2을(를) +3.3V에 연결했습니다.
+C7 핀 2을(를) +5V에 연결했습니다.
+C8이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+참조 지정자 REF**을(를) C8(으)로 변경하였습니다.
+값 C8을(를) C_0805_2012Metric에서 102(으)로 변경하였습니다.
+Q6 핀 3을(를) Net-(Q4-B)에 연결했습니다.
+C5이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C8 핀 1을(를) Net-(U4-FILTER)에 연결했습니다.
+C8 핀 2을(를) GND에 연결했습니다.
+C9이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+참조 지정자 REF**을(를) C9(으)로 변경하였습니다.
+값 C9을(를) C_0805_2012Metric에서 104(으)로 변경하였습니다.
+C9 심볼 관련성을 에서 /b56f8fb8-91b2-4ddd-867f-5584d9012063(으)로 업데이트하였습니다.
+C9 속성이 업데이트되었습니다.
+C8 심볼 관련성을 에서 /38bc8afb-f9ab-46fd-bf90-9032a2e790eb(으)로 업데이트하였습니다.
+C8 속성이 업데이트되었습니다.
+참조 지정자 REF**을(를) C5(으)로 변경하였습니다.
+참조 지정자 REF**을(를) C6(으)로 변경하였습니다.
+값 C6을(를) C_0805_2012Metric에서 104(으)로 변경하였습니다.
+L4이(가) 추가되었습니다 (풋프린트 'inv24VLib:IND_HCTI-10-20.0').
+C5 핀 1을(를) Net-(U3-FILTER)에 연결했습니다.
+C5 핀 2을(를) GND에 연결했습니다.
+L3 핀 1을(를) Net-(D6-K)에 연결했습니다.
+값 C5을(를) C_0805_2012Metric에서 102(으)로 변경하였습니다.
+C5 심볼 관련성을 에서 /27f0463c-79bf-475e-8ddd-ea7912f33a6a(으)로 업데이트하였습니다.
+C7 핀 1을(를) GND에 연결했습니다.
+C7 속성이 업데이트되었습니다.
+C7 심볼 관련성을 에서 /30be7beb-af45-48f2-823d-679838415d5d(으)로 업데이트하였습니다.
+J8 핀 2을(를) Net-(J8-Pin_2)에 연결했습니다.
+J9 핀 2을(를) Net-(J9-Pin_2)에 연결했습니다.
+J9 핀 1을(를) Net-(J9-Pin_1)에 연결했습니다.
+J9 속성이 업데이트되었습니다.
+J9 심볼 관련성을 에서 /6258793e-5dcc-426d-95f8-ce826758098b(으)로 업데이트하였습니다.
+R46 심볼 관련성을 에서 /6d325996-6bf9-434d-946e-48835b9d0008(으)로 업데이트하였습니다.
+C12 속성이 업데이트되었습니다.
+C13 심볼 관련성을 에서 /f803bfb8-7810-4b0c-94ed-17a3966d1664(으)로 업데이트하였습니다.
+값 C13을(를) C_0805_2012Metric에서 22uF/25V(으)로 변경하였습니다.
+C14 심볼 관련성을 에서 /962f0c07-2a91-4aac-ae3b-f96c4c9f0c28(으)로 업데이트하였습니다.
+값 C14을(를) C_0805_2012Metric에서 22uF/25V(으)로 변경하였습니다.
+참조 지정자 REF**을(를) C14(으)로 변경하였습니다.
+C12 핀 1을(를) GND2에 연결했습니다.
+C13 핀 2을(를) Net-(IC1-VS(W))에 연결했습니다.
+C13 핀 1을(를) Net-(D3-K)에 연결했습니다.
+C13 속성이 업데이트되었습니다.
+C9 핀 2을(를) GND2에 연결했습니다.
+C9 핀 1을(를) +5VP에 연결했습니다.
+참조 지정자 REF**을(를) C13(으)로 변경하였습니다.
+C13이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C12 핀 2을(를) IN_UL에 연결했습니다.
+C14이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+참조 지정자 REF**을(를) C10(으)로 변경하였습니다.
+참조 지정자 REF**을(를) C16(으)로 변경하였습니다.
+J9이(가) 추가되었습니다 (풋프린트 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal').
+C12이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C20 심볼 관련성을 에서 /4afe8d5c-90e5-402f-9092-285c0e30e684(으)로 업데이트하였습니다.
+J8 핀 1을(를) Net-(J8-Pin_1)에 연결했습니다.
+C10이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C12 심볼 관련성을 에서 /4f7e6b9b-828d-4458-a184-416a7f506d0d(으)로 업데이트하였습니다.
+값 C12을(를) C_0805_2012Metric에서 102(으)로 변경하였습니다.
+C6이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+참조 지정자 REF**을(를) C7(으)로 변경하였습니다.
+C7이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C6 핀 2을(를) +5V에 연결했습니다.
+C6 핀 1을(를) GND에 연결했습니다.
+C6 속성이 업데이트되었습니다.
+C6 심볼 관련성을 에서 /b36804a8-a517-410b-8da4-99bdda5ba80f(으)로 업데이트하였습니다.
+C17 심볼 관련성을 에서 /486f821e-9bd4-4a00-8b28-0dd09acbb65b(으)로 업데이트하였습니다.
+C32 심볼 관련성을 에서 /50eb452e-9e2d-449f-8b64-1858cf7ef810(으)로 업데이트하였습니다.
+C32 속성이 업데이트되었습니다.
+C32 핀 1을(를) GND에 연결했습니다.
+C32 핀 2을(를) +5V에 연결했습니다.
+C33이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C31 핀 2을(를) IN_WL에 연결했습니다.
+참조 지정자 REF**을(를) C17(으)로 변경하였습니다.
+값 C17을(를) C_0805_2012Metric에서 104(으)로 변경하였습니다.
+값 C32을(를) C_0805_2012Metric에서 104(으)로 변경하였습니다.
+C17 속성이 업데이트되었습니다.
+C17 핀 1을(를) Net-(D4-K)에 연결했습니다.
+C17 핀 2을(를) Net-(IC1-VS(V))에 연결했습니다.
+C18이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C25 핀 1을(를) Net-(C25-Pad1)에 연결했습니다.
+값 C18을(를) C_0805_2012Metric에서 104(으)로 변경하였습니다.
+C18 심볼 관련성을 에서 /0294cc07-8154-4b40-883f-4a4060cea17c(으)로 업데이트하였습니다.
+C18 핀 2을(를) Net-(IC1-VS(U))에 연결했습니다.
+C28 핀 1을(를) GND2에 연결했습니다.
+C18 핀 1을(를) Net-(D5-K)에 연결했습니다.
+참조 지정자 REF**을(를) C29(으)로 변경하였습니다.
+C18 속성이 업데이트되었습니다.
+참조 지정자 REF**을(를) C32(으)로 변경하였습니다.
+C32이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+참조 지정자 REF**을(를) C33(으)로 변경하였습니다.
+C31 핀 1을(를) GND2에 연결했습니다.
+C31 속성이 업데이트되었습니다.
+C31 심볼 관련성을 에서 /dbff68cf-c747-4e62-9f8f-fdbc177e4e73(으)로 업데이트하였습니다.
+값 C31을(를) C_0805_2012Metric에서 102(으)로 변경하였습니다.
+참조 지정자 REF**을(를) C31(으)로 변경하였습니다.
+C31이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C30 핀 2을(를) IN_VL에 연결했습니다.
+C30 핀 1을(를) GND2에 연결했습니다.
+C16이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+값 R46을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 4.7K(으)로 변경하였습니다.
+값 C24을(를) C_0805_2012Metric에서 333(으)로 변경하였습니다.
+참조 지정자 REF**을(를) C24(으)로 변경하였습니다.
+C24이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C23 핀 2을(를) GND2에 연결했습니다.
+C23 핀 1을(를) +15V에 연결했습니다.
+C35이(가) 추가되었습니다 (풋프린트 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
+C23 심볼 관련성을 에서 /25fa7822-c0ac-4f19-bffe-51a93d2426fa(으)로 업데이트하였습니다.
+값 C35을(를) CP_Radial_D8.0mm_P5.00mm에서 47uF/50V(으)로 변경하였습니다.
+C16 핀 2을(를) Net-(IC1-VS(W))에 연결했습니다.
+C16 핀 1을(를) Net-(D3-K)에 연결했습니다.
+C16 속성이 업데이트되었습니다.
+C16 심볼 관련성을 에서 /d4374ecf-5aea-4700-bd26-dd88011d1a0f(으)로 업데이트하였습니다.
+값 C16을(를) C_0805_2012Metric에서 104(으)로 변경하였습니다.
+R35 핀 2을(를) +5VP에 연결했습니다.
+값 C34을(를) C_0805_2012Metric에서 104(으)로 변경하였습니다.
+C35 심볼 관련성을 에서 /e90bfbf0-8ea8-46f8-9df6-fef84ed8aafe(으)로 업데이트하였습니다.
+참조 지정자 REF**을(를) C35(으)로 변경하였습니다.
+C15 핀 2을(를) Net-(IC1-VS(U))에 연결했습니다.
+C17이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C15 속성이 업데이트되었습니다.
+C15 심볼 관련성을 에서 /54b25bc6-e24c-43c1-a586-6921a84ea7c3(으)로 업데이트하였습니다.
+값 C15을(를) C_0805_2012Metric에서 22uF/25V(으)로 변경하였습니다.
+참조 지정자 REF**을(를) C15(으)로 변경하였습니다.
+C15이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C14 핀 2을(를) Net-(IC1-VS(V))에 연결했습니다.
+C14 핀 1을(를) Net-(D4-K)에 연결했습니다.
+참조 지정자 REF**을(를) C18(으)로 변경하였습니다.
+값 C20을(를) C_0805_2012Metric에서 104(으)로 변경하였습니다.
+참조 지정자 REF**을(를) C20(으)로 변경하였습니다.
+C20이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+참조 지정자 REF**을(를) C2(으)로 변경하였습니다.
+값 C2을(를) CP_Radial_D8.0mm_P5.00mm에서 100uF/50V(으)로 변경하였습니다.
+참조 지정자 REF**을(를) C1(으)로 변경하였습니다.
+값 C28을(를) C_0805_2012Metric에서 102(으)로 변경하였습니다.
+C28 심볼 관련성을 에서 /78c31ac3-9238-465e-bb36-23363bd9478e(으)로 업데이트하였습니다.
+C28 속성이 업데이트되었습니다.
+C30이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C28 핀 2을(를) IN_VH에 연결했습니다.
+C29이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+참조 지정자 REF**을(를) C30(으)로 변경하였습니다.
+C14 속성이 업데이트되었습니다.
+C29 심볼 관련성을 에서 /2c34b387-9a82-4274-ad11-ecbcdbbfdc0a(으)로 업데이트하였습니다.
+C29 속성이 업데이트되었습니다.
+C29 핀 1을(를) GND2에 연결했습니다.
+C29 핀 2을(를) IN_WH에 연결했습니다.
+C30 심볼 관련성을 에서 /e532e93d-c8fc-4818-b660-d9aaea5e7785(으)로 업데이트하였습니다.
+C25 핀 2을(를) GND2에 연결했습니다.
+C26이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+값 C7을(를) C_0805_2012Metric에서 104(으)로 변경하였습니다.
+값 C29을(를) C_0805_2012Metric에서 102(으)로 변경하였습니다.
+C5 속성이 업데이트되었습니다.
+값 C30을(를) C_0805_2012Metric에서 102(으)로 변경하였습니다.
+C2이(가) 추가되었습니다 (풋프린트 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
+C1 핀 2을(를) GND에 연결했습니다.
+C1 핀 1을(를) +24V에 연결했습니다.
+C1 속성이 업데이트되었습니다.
+C1 심볼 관련성을 에서 /df7d262d-ebd8-4698-a6df-7933c9b42ca8(으)로 업데이트하였습니다.
+값 C1을(를) CP_Radial_D8.0mm_P5.00mm에서 100uF/50V(으)로 변경하였습니다.
+C2 심볼 관련성을 에서 /9691cc5b-5e24-4b41-a693-78d3a9283ddf(으)로 업데이트하였습니다.
+C1이(가) 추가되었습니다 (풋프린트 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
+BX6 핀 2을(를) Net-(IC1-RTH)에 연결했습니다.
+BX6 핀 1을(를) TEMPERATURE_IPM에 연결했습니다.
+BX6 속성이 업데이트되었습니다.
+C34이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C33 속성이 업데이트되었습니다.
+C34 핀 1을(를) GND에 연결했습니다.
+C34 속성이 업데이트되었습니다.
+C34 심볼 관련성을 에서 /1ca6fbc4-93d2-4098-9281-1e6eb3b31791(으)로 업데이트하였습니다.
+C30 속성이 업데이트되었습니다.
+참조 지정자 REF**을(를) C34(으)로 변경하였습니다.
+C3 속성이 업데이트되었습니다.
+C33 핀 2을(를) VTH_IPM에 연결했습니다.
+C33 핀 1을(를) Net-(BX5-Pad2)에 연결했습니다.
+참조 지정자 REF**을(를) BX6(으)로 변경하였습니다.
+C33 심볼 관련성을 에서 /2675e73f-7175-4f5e-9695-2017cd4ce597(으)로 업데이트하였습니다.
+값 C33을(를) C_0805_2012Metric에서 104(으)로 변경하였습니다.
+C26 핀 2을(를) GND에 연결했습니다.
+C28이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C27 핀 2을(를) IN_UH에 연결했습니다.
+BX6 심볼 관련성을 에서 /849f8000-588e-4b4b-beac-7ef7fa6518bc(으)로 업데이트하였습니다.
+C34 핀 2을(를) TEMPERATURE_IPM에 연결했습니다.
+값 BX6을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 0(으)로 변경하였습니다.
+C27 핀 1을(를) GND2에 연결했습니다.
+BX6이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+C27 속성이 업데이트되었습니다.
+C27 심볼 관련성을 에서 /41232005-9e3d-499b-9b4a-2e80b4eba496(으)로 업데이트하였습니다.
+값 C27을(를) C_0805_2012Metric에서 102(으)로 변경하였습니다.
+참조 지정자 REF**을(를) C27(으)로 변경하였습니다.
+C27이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+참조 지정자 REF**을(를) C28(으)로 변경하였습니다.
+C26 핀 1을(를) +3.3V에 연결했습니다.
+C26 속성이 업데이트되었습니다.
+C26 심볼 관련성을 에서 /cee3c327-3666-4ee6-9ba5-e3b73e22371e(으)로 업데이트하였습니다.
+값 C26을(를) C_0805_2012Metric에서 104(으)로 변경하였습니다.
+참조 지정자 REF**을(를) C26(으)로 변경하였습니다.
+값 D3을(를) D_DO-35_SOD27_P10.16mm_Horizontal에서 1N4937(으)로 변경하였습니다.
+C36 속성이 업데이트되었습니다.
+값 D2을(를) D_DO-201AD_P15.24mm_Horizontal에서 1N5822(으)로 변경하였습니다.
+C35 속성이 업데이트되었습니다.
+C35 핀 2을(를) Net-(BX5-Pad2)에 연결했습니다.
+C36이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+참조 지정자 REF**을(를) C36(으)로 변경하였습니다.
+IC1 핀 21을(를) +15V에 연결했습니다.
+C36 심볼 관련성을 에서 /aa2cd269-4b35-4476-90e9-d0ee7c40a1ff(으)로 업데이트하였습니다.
+IC1 핀 23을(를) Net-(IC1-VS(W))에 연결했습니다.
+C36 핀 1을(를) GND에 연결했습니다.
+참조 지정자 REF**을(를) D1(으)로 변경하였습니다.
+C37이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+참조 지정자 REF**을(를) C37(으)로 변경하였습니다.
+값 C37을(를) C_0805_2012Metric에서 104(으)로 변경하였습니다.
+값 C36을(를) C_0805_2012Metric에서 104(으)로 변경하였습니다.
+C37 속성이 업데이트되었습니다.
+값 D6을(를) D_DO-201AD_P15.24mm_Horizontal에서 1N5822(으)로 변경하였습니다.
+D1이(가) 추가되었습니다 (풋프린트 'Diode_THT:D_DO-201AD_P15.24mm_Horizontal').
+C37 핀 1을(를) GND에 연결했습니다.
+참조 지정자 REF**을(를) D3(으)로 변경하였습니다.
+D3이(가) 추가되었습니다 (풋프린트 'Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal').
+D2 핀 2을(를) GND2에 연결했습니다.
+D2 핀 1을(를) Net-(D2-K)에 연결했습니다.
+D2 속성이 업데이트되었습니다.
+D2 심볼 관련성을 에서 /7849f85c-1d12-4a03-a444-d4d496c1e92d(으)로 업데이트하였습니다.
+J4이(가) 추가되었습니다 (풋프린트 'Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical').
+참조 지정자 REF**을(를) D2(으)로 변경하였습니다.
+D2이(가) 추가되었습니다 (풋프린트 'Diode_THT:D_DO-201AD_P15.24mm_Horizontal').
+D1 핀 2을(를) GND에 연결했습니다.
+D1 핀 1을(를) Net-(D1-K)에 연결했습니다.
+D1 속성이 업데이트되었습니다.
+D1 심볼 관련성을 에서 /46c81555-f58f-464d-845b-40be42d6b842(으)로 업데이트하였습니다.
+값 D4을(를) D_DO-35_SOD27_P10.16mm_Horizontal에서 1N4937(으)로 변경하였습니다.
+참조 지정자 REF**을(를) D8(으)로 변경하였습니다.
+값 D8을(를) TO507P1020X460X2000-2에서 BYV29X-500(으)로 변경하였습니다.
+D8 심볼 관련성을 에서 /7d94df7e-f161-4bc3-8c29-c938b1853587(으)로 업데이트하였습니다.
+값 D7을(를) D_DO-41_SOD81_P10.16mm_Horizontal에서 1N4002(으)로 변경하였습니다.
+D3 핀 1을(를) Net-(D3-K)에 연결했습니다.
+D3 핀 2을(를) Net-(D3-A)에 연결했습니다.
+D4이(가) 추가되었습니다 (풋프린트 'Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal').
+참조 지정자 REF**을(를) D4(으)로 변경하였습니다.
+D8이(가) 추가되었습니다 (풋프린트 'inv24VLib:TO507P1020X460X2000-2').
+D4 심볼 관련성을 에서 /5b5f7cad-5e42-4e0e-a553-8997aceeaf62(으)로 업데이트하였습니다.
+D4 속성이 업데이트되었습니다.
+D4 핀 1을(를) Net-(D4-K)에 연결했습니다.
+참조 지정자 REF**을(를) D6(으)로 변경하였습니다.
+D5이(가) 추가되었습니다 (풋프린트 'Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal').
+참조 지정자 REF**을(를) D5(으)로 변경하였습니다.
+값 D5을(를) D_DO-35_SOD27_P10.16mm_Horizontal에서 1N4937(으)로 변경하였습니다.
+IC1 핀 7을(를) Net-(IC1-VFO)에 연결했습니다.
+값 D1을(를) D_DO-201AD_P15.24mm_Horizontal에서 1N5822(으)로 변경하였습니다.
+IC1 핀 10을(를) Net-(IC1-RSC)에 연결했습니다.
+IC1 핀 8을(를) Net-(IC1-CFOD)에 연결했습니다.
+IC1 핀 16을(를) GNDPWR에 연결했습니다.
+D7 핀 2을(를) Net-(D7-A)에 연결했습니다.
+D7 핀 1을(를) +5V에 연결했습니다.
+D7 속성이 업데이트되었습니다.
+D7 심볼 관련성을 에서 /25e6b50a-bfd7-40ee-b381-d020e4318326(으)로 업데이트하였습니다.
+D3 속성이 업데이트되었습니다.
+참조 지정자 REF**을(를) D7(으)로 변경하였습니다.
+D7이(가) 추가되었습니다 (풋프린트 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal').
+D6 핀 2을(를) H+15V에 연결했습니다.
+D6 핀 1을(를) Net-(D6-K)에 연결했습니다.
+D6 속성이 업데이트되었습니다.
+D6 심볼 관련성을 에서 /39a6ec9d-aa62-425f-a417-1db50a38432e(으)로 업데이트하였습니다.
+D8 핀 2을(를) 150V_OUT에 연결했습니다.
+D9이(가) 추가되었습니다 (풋프린트 'inv24VLib:TO507P1020X460X2000-2').
+참조 지정자 REF**을(를) D9(으)로 변경하였습니다.
+값 D9을(를) TO507P1020X460X2000-2에서 BYV29X-500(으)로 변경하였습니다.
+D9 심볼 관련성을 에서 /007163fd-fd97-406c-9b44-9dcc7836aa3d(으)로 업데이트하였습니다.
+D9 속성이 업데이트되었습니다.
+IC1 핀 18을(를) Net-(D4-K)에 연결했습니다.
+D9 핀 2을(를) GND에 연결했습니다.
+F1이(가) 추가되었습니다 (풋프린트 'inv24VLib:FUSE_3544-2').
+참조 지정자 REF**을(를) F2(으)로 변경하였습니다.
+값 F1을(를) FUSE_3544-2에서 3544-2(으)로 변경하였습니다.
+F1 심볼 관련성을 에서 /a1c3ca8f-0150-4ecd-88a3-e8a0ac584bcc(으)로 업데이트하였습니다.
+F1 속성이 업데이트되었습니다.
+F1 핀 1_2을(를) Net-(J5-Pin_1)에 연결했습니다.
+F1 핀 2_1을(를) +24V에 연결했습니다.
+C36 핀 2을(를) +5V에 연결했습니다.
+D8 속성이 업데이트되었습니다.
+IC1 핀 22을(를) Net-(D3-K)에 연결했습니다.
+IC1 핀 19을(를) Net-(IC1-VS(V))에 연결했습니다.
+F1 핀 1_1을(를) Net-(J5-Pin_1)에 연결했습니다.
+IC1 심볼 관련성을 에서 /a0deadb7-8051-46d2-b7a7-b5d557effdb8(으)로 업데이트하였습니다.
+참조 지정자 REF**을(를) IC1(으)로 변경하였습니다.
+IC1이(가) 추가되었습니다 (풋프린트 'inv24VLib:DIP-32').
+F2 핀 2_2을(를) GND에 연결했습니다.
+F2 핀 1_1을(를) Net-(J5-Pin_2)에 연결했습니다.
+F2 핀 2_1을(를) GND에 연결했습니다.
+F2 핀 1_2을(를) Net-(J5-Pin_2)에 연결했습니다.
+F2 속성이 업데이트되었습니다.
+F2 심볼 관련성을 에서 /c1d5e32e-02c5-4573-a35f-09a76ba41e4c(으)로 업데이트하였습니다.
+값 F2을(를) FUSE_3544-2에서 3544-2(으)로 변경하였습니다.
+F2이(가) 추가되었습니다 (풋프린트 'inv24VLib:FUSE_3544-2').
+IC1 핀 20을(를) IN_WH에 연결했습니다.
+C37 핀 2을(를) DIGITAL_CMD에 연결했습니다.
+D9 핀 1을(를) +24V에 연결했습니다.
+IC1 핀 15을(를) IN_VH에 연결했습니다.
+IC1 핀 14을(를) Net-(IC1-VS(U))에 연결했습니다.
+IC1 핀 13을(를) Net-(D5-K)에 연결했습니다.
+IC1 핀 12을(를) +15V에 연결했습니다.
+IC1 핀 11을(를) IN_UH에 연결했습니다.
+IC1 핀 1을(를) +15V에 연결했습니다.
+IC1 핀 9을(를) Net-(IC1-CSC)에 연결했습니다.
+IC1 핀 17을(를) +15V에 연결했습니다.
+IC1 속성이 업데이트되었습니다.
+IC1 핀 6을(를) GND2에 연결했습니다.
+IC1 핀 5을(를) IN_WL에 연결했습니다.
+IC1 핀 4을(를) IN_VL에 연결했습니다.
+IC1 핀 3을(를) IN_UL에 연결했습니다.
+IC1 핀 2을(를) GND2에 연결했습니다.
+F1 핀 2_2을(를) +24V에 연결했습니다.
+D6이(가) 추가되었습니다 (풋프린트 'Diode_THT:D_DO-201AD_P15.24mm_Horizontal').
+값 IC1을(를) DIP-32에서 FSAM50SM60A(으)로 변경하였습니다.
+D5 핀 1을(를) Net-(D5-K)에 연결했습니다.
+참조 지정자 REF**을(를) F1(으)로 변경하였습니다.
+D5 심볼 관련성을 에서 /2a4140c8-64ee-483e-b3e3-1518621cf3eb(으)로 업데이트하였습니다.
+IC1 핀 25을(를) Net-(IC1-RTH)에 연결했습니다.
+참조 지정자 REF**을(를) J4(으)로 변경하였습니다.
+IC1 핀 32을(를) VBUS에 연결했습니다.
+IC1 핀 31을(를) /W_phase에 연결했습니다.
+IC1 핀 30을(를) V_sensor에 연결했습니다.
+IC1 핀 29을(를) U_sensor에 연결했습니다.
+IC1 핀 28을(를) GNDPWR에 연결했습니다.
+IC1 핀 27을(를) GNDPWR에 연결했습니다.
+IC1 핀 26을(를) GNDPWR에 연결했습니다.
+D8 핀 1을(를) Net-(D8-K)에 연결했습니다.
+IC1 핀 24을(를) VTH_IPM에 연결했습니다.
+J7 속성이 업데이트되었습니다.
+L2이(가) 추가되었습니다 (풋프린트 'Inductor_THT:L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3').
+J6 핀 1을(를) Net-(J6-Pin_1)에 연결했습니다.
+J6 핀 2을(를) Net-(J6-Pin_2)에 연결했습니다.
+J6 핀 3을(를) Net-(J6-Pin_3)에 연결했습니다.
+J7이(가) 추가되었습니다 (풋프린트 'TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-03_P10.00mm').
+참조 지정자 REF**을(를) J7(으)로 변경하였습니다.
+값 J7을(를) TerminalBlock_Dinkle_DT-55-B01X-03_P10.00mm에서 Screw_Terminal_01x03(으)로 변경하였습니다.
+J7 심볼 관련성을 에서 /61ad8a03-071b-466c-a368-470a7c60c089(으)로 업데이트하였습니다.
+J6 심볼 관련성을 에서 /31cb6d50-9e61-493e-8bde-694bdfb4e76e(으)로 업데이트하였습니다.
+J6 속성이 업데이트되었습니다.
+값 J4을(를) IDC-Header_2x05_P2.54mm_Vertical에서 Conn_02x05_Odd_Even_MountingPin(으)로 변경하였습니다.
+J4 심볼 관련성을 에서 /42fe3da6-2ac8-4d90-8561-278ec815d3a5(으)로 업데이트하였습니다.
+J4 속성이 업데이트되었습니다.
+J4 핀 1을(를) +5V에 연결했습니다.
+J4 핀 2을(를) +5V에 연결했습니다.
+J4 핀 3을(를) GND에 연결했습니다.
+J4 핀 8을(를) I2C_SCL에 연결했습니다.
+J4 핀 7을(를) I2C_SDA에 연결했습니다.
+J4 핀 6을(를) unconnected-(J4-Pin_6-Pad6)에 연결했습니다.
+J5 심볼 관련성을 에서 /cab505bd-d46e-4218-85a7-1e2a6a71d990(으)로 업데이트하였습니다.
+J4 핀 4을(를) GND에 연결했습니다.
+값 J6을(를) TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal에서 Screw_Terminal_01x03(으)로 변경하였습니다.
+참조 지정자 REF**을(를) J6(으)로 변경하였습니다.
+J6이(가) 추가되었습니다 (풋프린트 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal').
+J5 핀 2을(를) Net-(J5-Pin_2)에 연결했습니다.
+J5 핀 1을(를) Net-(J5-Pin_1)에 연결했습니다.
+J5 속성이 업데이트되었습니다.
+Q3 핀 2을(를) Net-(Q3-C)에 연결했습니다.
+Q4 핀 2을(를) Net-(Q4-C)에 연결했습니다.
+Q4 핀 1을(를) GND에 연결했습니다.
+Q4 속성이 업데이트되었습니다.
+Q4 심볼 관련성을 에서 /39819ae6-d552-454d-89f7-43dd02579a5a(으)로 업데이트하였습니다.
+L1 핀 1을(를) Net-(D1-K)에 연결했습니다.
+K1 핀 11을(를) Net-(J8-Pin_1)에 연결했습니다.
+J7 핀 1을(를) U_phase에 연결했습니다.
+K1 핀 14을(를) Net-(J8-Pin_2)에 연결했습니다.
+L1이(가) 추가되었습니다 (풋프린트 'Inductor_THT:L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3').
+참조 지정자 REF**을(를) L1(으)로 변경하였습니다.
+값 L1을(를) L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3에서 100uH(으)로 변경하였습니다.
+L1 심볼 관련성을 에서 /69972589-f684-4f85-9739-66b3d508f990(으)로 업데이트하였습니다.
+L1 속성이 업데이트되었습니다.
+K1 핀 A1을(를) +5V에 연결했습니다.
+L1 핀 2을(를) +5V에 연결했습니다.
+K1 핀 12을(를) Net-(J8-Pin_3)에 연결했습니다.
+J7 핀 2을(를) V_phase에 연결했습니다.
+J7 핀 3을(를) /W_phase에 연결했습니다.
+J8이(가) 추가되었습니다 (풋프린트 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal').
+참조 지정자 REF**을(를) J8(으)로 변경하였습니다.
+값 J8을(를) TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal에서 Screw_Terminal_01x03(으)로 변경하였습니다.
+값 Q4을(를) TO-92_Inline에서 2SC1815(으)로 변경하였습니다.
+참조 지정자 REF**을(를) Q4(으)로 변경하였습니다.
+Q4이(가) 추가되었습니다 (풋프린트 'Package_TO_SOT_THT:TO-92_Inline').
+Q3 핀 3을(를) Net-(Q3-B)에 연결했습니다.
+Q4 핀 3을(를) Net-(Q4-B)에 연결했습니다.
+K1 핀 A2을(를) Net-(D7-A)에 연결했습니다.
+K1 속성이 업데이트되었습니다.
+K1 심볼 관련성을 에서 /37a5338a-f2c9-4122-8e98-455915a49544(으)로 업데이트하였습니다.
+값 K1을(를) RELAY_J0971CS5VDC.45에서 J0971CS5VDC.45(으)로 변경하였습니다.
+참조 지정자 REF**을(를) K1(으)로 변경하였습니다.
+J4 핀 5을(를) unconnected-(J4-Pin_5-Pad5)에 연결했습니다.
+값 J5을(를) TerminalBlock_Dinkle_DT-55-B01X-02_P10.00mm에서 Screw_Terminal_01x02(으)로 변경하였습니다.
+참조 지정자 REF**을(를) J5(으)로 변경하였습니다.
+J5이(가) 추가되었습니다 (풋프린트 'TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-02_P10.00mm').
+J4 핀 10을(를) SCI_RXD에 연결했습니다.
+J4 핀 9을(를) SCI_TXD에 연결했습니다.
+Q1 핀 3을(를) GND에 연결했습니다.
+L2 심볼 관련성을 에서 /fe20b98b-bab0-42ca-bc3b-2e8c0dc0bd93(으)로 업데이트하였습니다.
+Q2이(가) 추가되었습니다 (풋프린트 'Package_TO_SOT_THT:TO-220-3_Vertical').
+참조 지정자 REF**을(를) Q2(으)로 변경하였습니다.
+값 Q2을(를) TO-220-3_Vertical에서 IRFZ44NPBF(으)로 변경하였습니다.
+Q2 심볼 관련성을 에서 /bd2e6f34-e0b4-480b-b510-9d32f1bda062(으)로 업데이트하였습니다.
+값 L3을(를) L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3에서 100uH(으)로 변경하였습니다.
+참조 지정자 REF**을(를) L2(으)로 변경하였습니다.
+값 L2을(를) L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3에서 100uH(으)로 변경하였습니다.
+L3 심볼 관련성을 에서 /c1767bf9-3310-4bb5-95a3-a13e00c09bbe(으)로 업데이트하였습니다.
+L2 핀 1을(를) Net-(D2-K)에 연결했습니다.
+L2 핀 2을(를) +5VP에 연결했습니다.
+L3이(가) 추가되었습니다 (풋프린트 'Inductor_THT:L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3').
+L4 심볼 관련성을 에서 /d63aec70-56e3-489f-aaa4-9f5a481a3194(으)로 업데이트하였습니다.
+Q1 속성이 업데이트되었습니다.
+값 R2을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 10(으)로 변경하였습니다.
+R2 속성이 업데이트되었습니다.
+참조 지정자 REF**을(를) L4(으)로 변경하였습니다.
+C37 심볼 관련성을 에서 /ebd31c93-6ea5-400c-a438-45f97a27f90d(으)로 업데이트하였습니다.
+L3 핀 2을(를) +15V에 연결했습니다.
+D3 심볼 관련성을 에서 /5a208557-cad9-4cdf-b1ce-9954354fba60(으)로 업데이트하였습니다.
+L3 속성이 업데이트되었습니다.
+Q1 핀 2을(를) Net-(Q1-D)에 연결했습니다.
+Q1 핀 1을(를) Net-(Q1-G)에 연결했습니다.
+C35 핀 1을(를) VTH_IPM에 연결했습니다.
+Q1 심볼 관련성을 에서 /bdc50e60-99cf-467e-b762-5e631c3f0719(으)로 업데이트하였습니다.
+값 Q1을(를) TO-220-3_Vertical에서 IRFZ44NPBF(으)로 변경하였습니다.
+참조 지정자 REF**을(를) Q1(으)로 변경하였습니다.
+Q1이(가) 추가되었습니다 (풋프린트 'Package_TO_SOT_THT:TO-220-3_Vertical').
+L4 핀 2을(를) Net-(D8-K)에 연결했습니다.
+L4 핀 1을(를) VBUS에 연결했습니다.
+L4 속성이 업데이트되었습니다.
+D4 핀 2을(를) Net-(D4-A)에 연결했습니다.
+Q2 핀 3을(를) GND에 연결했습니다.
+Q7이(가) 추가되었습니다 (풋프린트 'Package_TO_SOT_THT:TO-92_Inline').
+Q3 속성이 업데이트되었습니다.
+Q3 심볼 관련성을 에서 /b597c7b6-7371-4494-9b3a-86b45626894f(으)로 업데이트하였습니다.
+값 Q3을(를) TO-92_Inline에서 2SC1815(으)로 변경하였습니다.
+참조 지정자 REF**을(를) Q3(으)로 변경하였습니다.
+Q3이(가) 추가되었습니다 (풋프린트 'Package_TO_SOT_THT:TO-92_Inline').
+J8 심볼 관련성을 에서 /798b67c8-8933-4be1-9f26-5f6abdf3175f(으)로 업데이트하였습니다.
+Q2 핀 2을(를) Net-(Q2-D)에 연결했습니다.
+Q5 핀 3을(를) Net-(Q3-B)에 연결했습니다.
+K1이(가) 추가되었습니다 (풋프린트 'inv24VLib:RELAY_J0971CS5VDC.45').
+Q6 핀 2을(를) Net-(Q4-C)에 연결했습니다.
+Q6 핀 1을(를) +5V에 연결했습니다.
+Q6 속성이 업데이트되었습니다.
+Q6 심볼 관련성을 에서 /623bade2-6e0c-4cfe-9fc4-2b03a0e52b51(으)로 업데이트하였습니다.
+값 Q6을(를) TO-92_Inline에서 2SA1015(으)로 변경하였습니다.
+참조 지정자 REF**을(를) J9(으)로 변경하였습니다.
+Q3 핀 1을(를) GND에 연결했습니다.
+D5 핀 2을(를) Net-(D5-A)에 연결했습니다.
+참조 지정자 REF**을(를) Q6(으)로 변경하였습니다.
+D5 속성이 업데이트되었습니다.
+Q6이(가) 추가되었습니다 (풋프린트 'Package_TO_SOT_THT:TO-92_Inline').
+Q2 핀 1을(를) Net-(Q2-G)에 연결했습니다.
+Q5 핀 2을(를) Net-(Q3-C)에 연결했습니다.
+Q5 핀 1을(를) +5V에 연결했습니다.
+Q5 속성이 업데이트되었습니다.
+Q5 심볼 관련성을 에서 /846a87ae-276c-43fa-9683-26f4506f7e4b(으)로 업데이트하였습니다.
+값 Q5을(를) TO-92_Inline에서 2SA1015(으)로 변경하였습니다.
+참조 지정자 REF**을(를) Q5(으)로 변경하였습니다.
+Q5이(가) 추가되었습니다 (풋프린트 'Package_TO_SOT_THT:TO-92_Inline').
+참조 지정자 REF**을(를) L3(으)로 변경하였습니다.
+값 L4을(를) IND_HCTI-10-20.0에서 22uH(으)로 변경하였습니다.
+값 R3을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 10K(으)로 변경하였습니다.
+Q2 속성이 업데이트되었습니다.
+X1 핀 11을(를) unconnected-(X1-Pad11)에 연결했습니다.
+R3이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+X1 핀 12을(를) GNDPWR에 연결했습니다.
+R2 핀 2을(를) Net-(Q2-G)에 연결했습니다.
+R2 핀 1을(를) Net-(Q4-C)에 연결했습니다.
+값 R1을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 10(으)로 변경하였습니다.
+R2 심볼 관련성을 에서 /9d364702-28e9-430a-b86d-7cc425fff7d4(으)로 업데이트하였습니다.
+X1 핀 15을(를) 150V_OUT에 연결했습니다.
+참조 지정자 REF**을(를) R2(으)로 변경하였습니다.
+X1 핀 13을(를) GNDPWR에 연결했습니다.
+R2이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+X1 핀 14을(를) unconnected-(X1-Pad14)에 연결했습니다.
+R1 핀 2을(를) Net-(Q1-G)에 연결했습니다.
+L2 속성이 업데이트되었습니다.
+R1 속성이 업데이트되었습니다.
+R1이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+참조 지정자 REF**을(를) R1(으)로 변경하였습니다.
+R1 심볼 관련성을 에서 /8cdcf821-016d-4b4e-b0c3-aa2a6684acd0(으)로 업데이트하였습니다.
+R12 속성이 업데이트되었습니다.
+R10 핀 2을(를) I_Vphase에 연결했습니다.
+값 X1을(를) ee42208x8p에서 ~(으)로 변경하였습니다.
+참조 지정자 REF**을(를) X1(으)로 변경하였습니다.
+R11이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+참조 지정자 REF**을(를) R11(으)로 변경하였습니다.
+값 R11을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 5.6(으)로 변경하였습니다.
+R11 심볼 관련성을 에서 /03678ce4-825d-4ae5-a981-fc43f78d7df7(으)로 업데이트하였습니다.
+R11 속성이 업데이트되었습니다.
+R11 핀 1을(를) /W_phase에 연결했습니다.
+R11 핀 2을(를) Net-(IC1-VS(W))에 연결했습니다.
+X1이(가) 추가되었습니다 (풋프린트 'inv24VLib:ee42208x8p').
+R12이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+X1 핀 7을(를) unconnected-(X1-Pad7)에 연결했습니다.
+R6 핀 2을(를) Net-(Q4-B)에 연결했습니다.
+R6 핀 1을(를) PWM_B에 연결했습니다.
+R6 속성이 업데이트되었습니다.
+R6 심볼 관련성을 에서 /cd8b2407-3c0a-4a55-bc06-5d48055103d9(으)로 업데이트하였습니다.
+값 R6을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 100(으)로 변경하였습니다.
+참조 지정자 REF**을(를) R6(으)로 변경하였습니다.
+X1 핀 6을(를) Net-(Q2-D)에 연결했습니다.
+R6이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+X1 핀 5을(를) Net-(Q2-D)에 연결했습니다.
+R5 핀 2을(를) Net-(Q3-B)에 연결했습니다.
+R5 핀 1을(를) PWM_A에 연결했습니다.
+R5 속성이 업데이트되었습니다.
+R5 심볼 관련성을 에서 /9a3f9fb8-e11f-47d7-9dbc-f89af0b8a95a(으)로 업데이트하였습니다.
+R3 심볼 관련성을 에서 /f6fcb775-0da0-4303-aa39-ed5f9c12c074(으)로 업데이트하였습니다.
+참조 지정자 REF**을(를) R5(으)로 변경하였습니다.
+X1 핀 8을(를) unconnected-(X1-Pad8)에 연결했습니다.
+R13 속성이 업데이트되었습니다.
+참조 지정자 REF**을(를) R12(으)로 변경하였습니다.
+참조 지정자 REF**을(를) R13(으)로 변경하였습니다.
+값 R12을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 5.6(으)로 변경하였습니다.
+R12 심볼 관련성을 에서 /3917ecb9-8d17-4a5a-8124-9ef7be9c3b8d(으)로 업데이트하였습니다.
+X1 핀 4을(를) +24V에 연결했습니다.
+R1 핀 1을(를) Net-(Q3-C)에 연결했습니다.
+참조 지정자 REF**을(를) Q7(으)로 변경하였습니다.
+BX1이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+값 Q7을(를) TO-92_Inline에서 2SC1815(으)로 변경하였습니다.
+Q7 심볼 관련성을 에서 /b1cd4f04-e626-4155-a1fb-94410c1358e1(으)로 업데이트하였습니다.
+Q7 속성이 업데이트되었습니다.
+Q7 핀 1을(를) GND에 연결했습니다.
+Q7 핀 2을(를) Net-(D7-A)에 연결했습니다.
+Q7 핀 3을(를) Net-(Q7-B)에 연결했습니다.
+X1 핀 16을(를) 150V_OUT에 연결했습니다.
+U1 핀 J2-7을(를) TEMPERATURE_IPM에 연결했습니다.
+U1 핀 J3-2을(를) FAULT_IPM에 연결했습니다.
+R10 속성이 업데이트되었습니다.
+R10 심볼 관련성을 에서 /6f036359-0e3d-4dd2-a8b8-eea90db48ae1(으)로 업데이트하였습니다.
+값 R10을(를) R_0805_2012Metric에서 2K(으)로 변경하였습니다.
+참조 지정자 REF**을(를) R10(으)로 변경하였습니다.
+X1 핀 2을(를) Net-(Q1-D)에 연결했습니다.
+X1 심볼 관련성을 에서 /f631981a-5487-4e7d-9c2f-c951aa07af3b(으)로 업데이트하였습니다.
+R9 핀 2을(를) I_Uphase에 연결했습니다.
+R8 속성이 업데이트되었습니다.
+X1 속성이 업데이트되었습니다.
+R9 속성이 업데이트되었습니다.
+R9 심볼 관련성을 에서 /c258aefa-3046-4e1c-8840-d8e0ffb9a2b2(으)로 업데이트하였습니다.
+값 R9을(를) R_0805_2012Metric에서 2K(으)로 변경하였습니다.
+참조 지정자 REF**을(를) R9(으)로 변경하였습니다.
+R10이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+R9 핀 1을(를) GND에 연결했습니다.
+R8 심볼 관련성을 에서 /92c26292-c78e-48b6-b6b6-7442c4aee67c(으)로 업데이트하였습니다.
+R9이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+R8 핀 1을(를) I_Vphase에 연결했습니다.
+R14 심볼 관련성을 에서 /a010eea1-cbea-4ed2-bed3-a4fe0bcea34a(으)로 업데이트하였습니다.
+R8 핀 2을(를) Net-(U4-VIOUT)에 연결했습니다.
+U1 핀 J2-8을(를) unconnected-(U1-IO33-PadJ2-8)에 연결했습니다.
+U1 핀 J2-9을(를) PWM2_L에 연결했습니다.
+U1 핀 J2-10을(를) PWM2_H에 연결했습니다.
+U1 핀 J2-11을(를) PWM1_L에 연결했습니다.
+U6 핀 14을(를) Net-(U6-OUTA)에 연결했습니다.
+U1 핀 J2-12을(를) PWM1_H에 연결했습니다.
+U1 핀 J2-13을(를) PWM0_L에 연결했습니다.
+U1 핀 J2-14을(를) GND에 연결했습니다.
+U1 핀 J2-15을(를) PWM0_H에 연결했습니다.
+U1 핀 J2-16을(를) unconnected-(U1-SD2-PadJ2-16)에 연결했습니다.
+U1 핀 J2-17을(를) unconnected-(U1-SD3-PadJ2-17)에 연결했습니다.
+U6 핀 13을(를) Net-(U6-OUTB)에 연결했습니다.
+R10 핀 1을(를) GND에 연결했습니다.
+R12 핀 1을(를) V_sensor에 연결했습니다.
+R12 핀 2을(를) Net-(IC1-VS(V))에 연결했습니다.
+U10 핀 4을(를) FAULT_IPM에 연결했습니다.
+R13이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+참조 지정자 REF**을(를) R14(으)로 변경하였습니다.
+값 R13을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 5.6(으)로 변경하였습니다.
+R13 심볼 관련성을 에서 /73c3c5c5-1e2b-4573-b16f-ff1f0231f46e(으)로 업데이트하였습니다.
+값 R14을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 20(으)로 변경하였습니다.
+R13 핀 1을(를) U_sensor에 연결했습니다.
+U10 핀 3을(를) GND에 연결했습니다.
+R13 핀 2을(를) Net-(IC1-VS(U))에 연결했습니다.
+U8 핀 3을(를) GNDPWR에 연결했습니다.
+R14이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+U1 핀 J2-6을(를) ANALOG_CMD에 연결했습니다.
+값 R4을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 10K(으)로 변경하였습니다.
+U1 핀 J2-18을(를) unconnected-(U1-CMD-PadJ2-18)에 연결했습니다.
+R4 핀 1을(를) GND에 연결했습니다.
+U1 핀 J3-1을(를) GND에 연결했습니다.
+R5이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+X1 핀 1을(를) Net-(Q1-D)에 연결했습니다.
+참조 지정자 REF**을(를) R7(으)로 변경하였습니다.
+값 R7을(를) R_0805_2012Metric에서 2K(으)로 변경하였습니다.
+R7 심볼 관련성을 에서 /e49d39af-830a-406e-b471-fa37d1feb52b(으)로 업데이트하였습니다.
+R7 속성이 업데이트되었습니다.
+R7 핀 1을(를) I_Uphase에 연결했습니다.
+R7 핀 2을(를) Net-(U3-VIOUT)에 연결했습니다.
+X1 핀 3을(를) +24V에 연결했습니다.
+R8이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+참조 지정자 REF**을(를) R8(으)로 변경하였습니다.
+값 R8을(를) R_0805_2012Metric에서 2K(으)로 변경하였습니다.
+참조 지정자 REF**을(를) R22(으)로 변경하였습니다.
+값 R17을(를) R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal에서 1M/2W(으)로 변경하였습니다.
+참조 지정자 REF**을(를) R17(으)로 변경하였습니다.
+R17이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal').
+값 U10을(를) DIP-4_W7.62mm에서 PC817(으)로 변경하였습니다.
+R16 핀 2을(를) +15V에 연결했습니다.
+R16 핀 1을(를) Net-(D5-A)에 연결했습니다.
+R16 속성이 업데이트되었습니다.
+R16 심볼 관련성을 에서 /76bb30da-48d0-4e43-bed1-04f3a30f13be(으)로 업데이트하였습니다.
+R21 핀 2을(를) VDC_sensor에 연결했습니다.
+U10이(가) 추가되었습니다 (풋프린트 'Package_DIP:DIP-4_W7.62mm').
+R16이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+U10 심볼 관련성을 에서 /5cb7edfe-922b-42f6-ba0c-50af62e690bd(으)로 업데이트하였습니다.
+R15 핀 2을(를) +15V에 연결했습니다.
+R15 핀 1을(를) Net-(D4-A)에 연결했습니다.
+R15 속성이 업데이트되었습니다.
+R15 심볼 관련성을 에서 /5fa8edfb-0abd-4828-871c-c519fac9c9ad(으)로 업데이트하였습니다.
+R25 핀 1을(를) GND2에 연결했습니다.
+R25 속성이 업데이트되었습니다.
+R26이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+R25 핀 2을(를) Net-(IC1-RSC)에 연결했습니다.
+값 R15을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 20(으)로 변경하였습니다.
+R21 핀 1을(를) GND에 연결했습니다.
+R17 속성이 업데이트되었습니다.
+R17 핀 1을(를) Net-(R17-Pad1)에 연결했습니다.
+R17 핀 2을(를) VBUS에 연결했습니다.
+R26 핀 1을(를) IN_UH에 연결했습니다.
+R24 핀 2을(를) Net-(IC1-RSC)에 연결했습니다.
+참조 지정자 REF**을(를) U9(으)로 변경하였습니다.
+R25이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+참조 지정자 REF**을(를) R25(으)로 변경하였습니다.
+U9이(가) 추가되었습니다 (풋프린트 'Package_DIP:DIP-4_W7.62mm').
+값 R25을(를) R_0805_2012Metric에서 45(으)로 변경하였습니다.
+참조 지정자 REF**을(를) R19(으)로 변경하였습니다.
+R18이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal').
+참조 지정자 REF**을(를) R18(으)로 변경하였습니다.
+U9 핀 4을(를) DIGITAL_CMD에 연결했습니다.
+R19 핀 2을(를) Net-(U8-INP)에 연결했습니다.
+R19 핀 1을(를) GNDPWR에 연결했습니다.
+참조 지정자 REF**을(를) U10(으)로 변경하였습니다.
+R19 심볼 관련성을 에서 /d055f17d-cb7b-4dc4-b175-a3e321241cef(으)로 업데이트하였습니다.
+값 R19을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 1K(으)로 변경하였습니다.
+값 R16을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 20(으)로 변경하였습니다.
+U9 핀 3을(를) GND에 연결했습니다.
+R20이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+값 R18을(를) R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal에서 1M/2W(으)로 변경하였습니다.
+R19이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+R18 심볼 관련성을 에서 /0b017add-3ab7-4ed9-8ec4-b755a16361f4(으)로 업데이트하였습니다.
+R18 핀 2을(를) Net-(R17-Pad1)에 연결했습니다.
+R18 속성이 업데이트되었습니다.
+R25 심볼 관련성을 에서 /fea68ae0-6660-481d-a393-0e551f6b862c(으)로 업데이트하였습니다.
+값 R20을(를) R_0805_2012Metric에서 2K(으)로 변경하였습니다.
+R20 심볼 관련성을 에서 /b6a722a2-8e22-43dc-87f3-40908c5e7daa(으)로 업데이트하였습니다.
+R20 속성이 업데이트되었습니다.
+R20 핀 1을(를) VDC_sensor에 연결했습니다.
+R20 핀 2을(를) Net-(U8-OUTP)에 연결했습니다.
+R19 속성이 업데이트되었습니다.
+R17 심볼 관련성을 에서 /532938f3-5858-4e15-90ed-b17d6fa39c33(으)로 업데이트하였습니다.
+참조 지정자 REF**을(를) R16(으)로 변경하였습니다.
+R18 핀 1을(를) Net-(U8-INP)에 연결했습니다.
+R14 속성이 업데이트되었습니다.
+R14 핀 1을(를) Net-(D3-A)에 연결했습니다.
+U10 핀 1을(를) Net-(R22-Pad1)에 연결했습니다.
+R14 핀 2을(를) +15V에 연결했습니다.
+U10 속성이 업데이트되었습니다.
+R15이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+값 U9을(를) DIP-4_W7.62mm에서 PC817(으)로 변경하였습니다.
+값 R24을(를) R_0805_2012Metric에서 3.9K(으)로 변경하였습니다.
+참조 지정자 REF**을(를) R24(으)로 변경하였습니다.
+R24이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+U9 심볼 관련성을 에서 /320b9cff-7a26-4a9c-b6d6-933a247c922f(으)로 업데이트하였습니다.
+R22 핀 2을(를) +5VP에 연결했습니다.
+R23 핀 1을(를) Net-(C25-Pad1)에 연결했습니다.
+R23 속성이 업데이트되었습니다.
+R23 심볼 관련성을 에서 /d590d2fe-47fe-4080-bf5a-42c8ed40c814(으)로 업데이트하였습니다.
+값 R23을(를) R_0805_2012Metric에서 390(으)로 변경하였습니다.
+U9 속성이 업데이트되었습니다.
+참조 지정자 REF**을(를) R23(으)로 변경하였습니다.
+R21이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+U9 핀 1을(를) +5V에 연결했습니다.
+R23 핀 2을(를) Net-(IC1-CSC)에 연결했습니다.
+R22 핀 1을(를) Net-(R22-Pad1)에 연결했습니다.
+R7이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+U10 핀 2을(를) Net-(IC1-VFO)에 연결했습니다.
+참조 지정자 REF**을(를) R20(으)로 변경하였습니다.
+참조 지정자 REF**을(를) R3(으)로 변경하였습니다.
+U9 핀 2을(를) Net-(J9-Pin_1)에 연결했습니다.
+참조 지정자 REF**을(를) R15(으)로 변경하였습니다.
+R22 속성이 업데이트되었습니다.
+R22 심볼 관련성을 에서 /758bdeaf-6dcf-4023-bf78-8918f24ba93e(으)로 업데이트하였습니다.
+R24 심볼 관련성을 에서 /3583c65b-9bfd-40c9-845a-64bca2b0c752(으)로 업데이트하였습니다.
+R24 속성이 업데이트되었습니다.
+값 R5을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 100(으)로 변경하였습니다.
+R3 속성이 업데이트되었습니다.
+R3 핀 1을(를) GND에 연결했습니다.
+R3 핀 2을(를) Net-(Q1-G)에 연결했습니다.
+R4이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+X1 핀 10을(를) H+15V에 연결했습니다.
+참조 지정자 REF**을(를) R4(으)로 변경하였습니다.
+U8 핀 6을(를) GND에 연결했습니다.
+참조 지정자 REF**을(를) R27(으)로 변경하였습니다.
+값 R26을(를) R_0805_2012Metric에서 4.7K(으)로 변경하였습니다.
+R26 심볼 관련성을 에서 /0e77412a-e2db-42e6-96ea-e54f6a739185(으)로 업데이트하였습니다.
+R26 속성이 업데이트되었습니다.
+R24 핀 1을(를) Net-(C25-Pad1)에 연결했습니다.
+R27 핀 2을(를) +5VP에 연결했습니다.
+U8 핀 8을(를) +5V에 연결했습니다.
+U8 핀 7을(를) Net-(U8-OUTP)에 연결했습니다.
+R27이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+참조 지정자 REF**을(를) R26(으)로 변경하였습니다.
+값 R27을(를) R_0805_2012Metric에서 4.7K(으)로 변경하였습니다.
+R27 심볼 관련성을 에서 /4854de68-817f-4703-afa6-2cc7fa89ce13(으)로 업데이트하였습니다.
+R27 속성이 업데이트되었습니다.
+R27 핀 1을(를) IN_VH에 연결했습니다.
+R26 핀 2을(를) +5VP에 연결했습니다.
+값 C25을(를) C_0805_2012Metric에서 102(으)로 변경하였습니다.
+R4 속성이 업데이트되었습니다.
+R4 심볼 관련성을 에서 /7795c8b2-f48a-4123-b584-c84500b0f060(으)로 업데이트하였습니다.
+C25이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+X1 핀 9을(를) GND2에 연결했습니다.
+R4 핀 2을(를) Net-(Q2-G)에 연결했습니다.
+C24 핀 1을(를) Net-(IC1-CFOD)에 연결했습니다.
+U8 핀 5을(를) GND에 연결했습니다.
+R28이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+참조 지정자 REF**을(를) R28(으)로 변경하였습니다.
+값 R28을(를) R_0805_2012Metric에서 4.7K(으)로 변경하였습니다.
+R23이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+참조 지정자 REF**을(를) R21(으)로 변경하였습니다.
+값 R21을(를) R_0805_2012Metric에서 2K(으)로 변경하였습니다.
+R21 심볼 관련성을 에서 /8659bdc0-507d-4566-9e9f-f70668f54186(으)로 업데이트하였습니다.
+R21 속성이 업데이트되었습니다.
+R31 핀 1을(를) Net-(U6-OUTC)에 연결했습니다.
+R42 핀 2을(를) Net-(J6-Pin_2)에 연결했습니다.
+R42 핀 1을(를) ANALOG_CMD에 연결했습니다.
+R42 속성이 업데이트되었습니다.
+R42 심볼 관련성을 에서 /b2520aa4-fa27-4571-9839-7fc7d04588fd(으)로 업데이트하였습니다.
+값 R42을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 4.7K(으)로 변경하였습니다.
+U7 핀 5을(를) PWM2_L에 연결했습니다.
+U7 핀 2을(를) GND에 연결했습니다.
+R31 핀 2을(를) IN_WH에 연결했습니다.
+U7 핀 4을(를) PWM1_L에 연결했습니다.
+R31 속성이 업데이트되었습니다.
+R31 심볼 관련성을 에서 /96840a76-6f12-4a26-ae77-0e0532b5115b(으)로 업데이트하였습니다.
+U8 심볼 관련성을 에서 /fb398d2d-a174-4d17-b4eb-12798606f92f(으)로 업데이트하였습니다.
+값 R31을(를) R_0805_2012Metric에서 100(으)로 변경하였습니다.
+참조 지정자 REF**을(를) R31(으)로 변경하였습니다.
+R31이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+U8 속성이 업데이트되었습니다.
+R30 심볼 관련성을 에서 /9043ece6-0d1d-4365-a5c5-421514807945(으)로 업데이트하였습니다.
+U8 핀 1을(를) +5VP에 연결했습니다.
+R30 속성이 업데이트되었습니다.
+R30 핀 1을(를) Net-(U6-OUTB)에 연결했습니다.
+R30 핀 2을(를) IN_VH에 연결했습니다.
+R44이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+U7 핀 3을(를) PWM0_L에 연결했습니다.
+참조 지정자 REF**을(를) R44(으)로 변경하였습니다.
+값 R44을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 4.7K(으)로 변경하였습니다.
+R44 심볼 관련성을 에서 /487446bb-ae12-46fd-ba36-5c888a87d61a(으)로 업데이트하였습니다.
+R44 속성이 업데이트되었습니다.
+R44 핀 1을(를) +3.3V에 연결했습니다.
+R44 핀 2을(를) FAULT_IPM에 연결했습니다.
+참조 지정자 REF**을(를) R42(으)로 변경하였습니다.
+R45이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+참조 지정자 REF**을(를) R45(으)로 변경하였습니다.
+참조 지정자 REF**을(를) R35(으)로 변경하였습니다.
+R28 핀 2을(를) +5VP에 연결했습니다.
+U8 핀 4을(를) GND2에 연결했습니다.
+R28 핀 1을(를) IN_WH에 연결했습니다.
+R28 속성이 업데이트되었습니다.
+값 R30을(를) R_0805_2012Metric에서 100(으)로 변경하였습니다.
+R35 속성이 업데이트되었습니다.
+R35 심볼 관련성을 에서 /20525147-0deb-42b6-9a4a-9e7fe519f4ce(으)로 업데이트하였습니다.
+값 R35을(를) R_0805_2012Metric에서 4.7K(으)로 변경하였습니다.
+값 U6을(를) SOIC127P1030X265-16N에서 ISO7340CDW(으)로 변경하였습니다.
+R35이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+U7 핀 14을(를) Net-(U7-OUTA)에 연결했습니다.
+U7 핀 15을(를) GND2에 연결했습니다.
+R34 핀 2을(를) IN_WL에 연결했습니다.
+R34 핀 1을(를) Net-(U7-OUTC)에 연결했습니다.
+R34 속성이 업데이트되었습니다.
+R34 심볼 관련성을 에서 /5c035b49-10de-4c6e-9766-96deba7f5325(으)로 업데이트하였습니다.
+값 R45을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 470(으)로 변경하였습니다.
+R45 심볼 관련성을 에서 /1a5eaa13-8e3e-418c-b9eb-604d71a845b9(으)로 업데이트하였습니다.
+R45 속성이 업데이트되었습니다.
+R45 핀 1을(를) RELAY_TRIP에 연결했습니다.
+R45 핀 2을(를) Net-(Q7-B)에 연결했습니다.
+R29이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+참조 지정자 REF**을(를) R29(으)로 변경하였습니다.
+값 R29을(를) R_0805_2012Metric에서 100(으)로 변경하였습니다.
+R29 심볼 관련성을 에서 /3176a1e6-bf2a-408f-9b8b-26803051746b(으)로 업데이트하였습니다.
+R29 속성이 업데이트되었습니다.
+R29 핀 1을(를) Net-(U6-OUTA)에 연결했습니다.
+R29 핀 2을(를) IN_UH에 연결했습니다.
+U8 핀 2을(를) Net-(U8-INP)에 연결했습니다.
+R30이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+참조 지정자 REF**을(를) R30(으)로 변경하였습니다.
+R35 핀 1을(를) IN_UL에 연결했습니다.
+C21 속성이 업데이트되었습니다.
+값 C23을(를) C_0805_2012Metric에서 104(으)로 변경하였습니다.
+C21 핀 2을(를) VDC_sensor에 연결했습니다.
+C22이(가) 추가되었습니다 (풋프린트 'inv24VLib:CAPPRD1000W160D3600H5200').
+참조 지정자 REF**을(를) C22(으)로 변경하였습니다.
+값 C22을(를) CAPPRD1000W160D3600H5200에서 470uF/400V(으)로 변경하였습니다.
+값 R22을(를) R_0805_2012Metric에서 470(으)로 변경하였습니다.
+C22 속성이 업데이트되었습니다.
+C23이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+R22이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+C21 핀 1을(를) GND에 연결했습니다.
+R42이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+U7 핀 6을(를) GND에 연결했습니다.
+R40 핀 2을(를) TEMPERATURE_IPM에 연결했습니다.
+R40 핀 1을(를) GND에 연결했습니다.
+C22 심볼 관련성을 에서 /80ab92ee-4374-4b1e-b369-75baaa97c27c(으)로 업데이트하였습니다.
+참조 지정자 REF**을(를) C23(으)로 변경하였습니다.
+U7 핀 9을(를) GND2에 연결했습니다.
+R40 속성이 업데이트되었습니다.
+참조 지정자 REF**을(를) R40(으)로 변경하였습니다.
+R40 심볼 관련성을 에서 /79d78df6-c112-4a8e-b834-9824ce2d86df(으)로 업데이트하였습니다.
+U7 핀 8을(를) GND에 연결했습니다.
+C21 심볼 관련성을 에서 /4968be72-3c47-4551-939a-31e85730cd20(으)로 업데이트하였습니다.
+값 C21을(를) C_0805_2012Metric에서 104(으)로 변경하였습니다.
+참조 지정자 REF**을(를) C21(으)로 변경하였습니다.
+C21이(가) 추가되었습니다 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C20 핀 2을(를) GND2에 연결했습니다.
+C20 핀 1을(를) +5VP에 연결했습니다.
+C20 속성이 업데이트되었습니다.
+C24 심볼 관련성을 에서 /bf599162-4db0-4bb0-a33b-4ca1b81484f5(으)로 업데이트하였습니다.
+C25 속성이 업데이트되었습니다.
+C25 심볼 관련성을 에서 /d228a04b-cea5-4345-bf4d-c43aa0003f86(으)로 업데이트하였습니다.
+C15 핀 1을(를) Net-(D5-K)에 연결했습니다.
+C23 속성이 업데이트되었습니다.
+U7 핀 13을(를) Net-(U7-OUTB)에 연결했습니다.
+U7 핀 1을(를) +3.3V에 연결했습니다.
+U7 속성이 업데이트되었습니다.
+R46이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+참조 지정자 REF**을(를) R46(으)로 변경하였습니다.
+R36 심볼 관련성을 에서 /871a0cd4-fb56-403e-92af-ef57d925e4b6(으)로 업데이트하였습니다.
+R46 핀 1을(를) Net-(Q7-B)에 연결했습니다.
+U7 핀 10을(를) +5VP에 연결했습니다.
+R36 속성이 업데이트되었습니다.
+U7 핀 12을(를) Net-(U7-OUTC)에 연결했습니다.
+R36이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+참조 지정자 REF**을(를) R36(으)로 변경하였습니다.
+값 R36을(를) R_0805_2012Metric에서 4.7K(으)로 변경하였습니다.
+R46 속성이 업데이트되었습니다.
+C24 속성이 업데이트되었습니다.
+U1 핀 J3-3을(를) I2C_SCL에 연결했습니다.
+참조 지정자 REF**을(를) C25(으)로 변경하였습니다.
+R48 속성이 업데이트되었습니다.
+C24 핀 2을(를) GND2에 연결했습니다.
+U1 핀 J3-4을(를) unconnected-(U1-TXD0-PadJ3-4)에 연결했습니다.
+U7 핀 11을(를) unconnected-(U7-OUTD-Pad11)에 연결했습니다.
+R36 핀 1을(를) IN_VL에 연결했습니다.
+R36 핀 2을(를) +5VP에 연결했습니다.
+R37이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+참조 지정자 REF**을(를) R37(으)로 변경하였습니다.
+값 R37을(를) R_0805_2012Metric에서 4.7K(으)로 변경하였습니다.
+R37 심볼 관련성을 에서 /551a8740-b5c7-4058-95a2-27394843515b(으)로 업데이트하였습니다.
+R28 심볼 관련성을 에서 /d6a1ec1d-f5c2-4903-89b1-8e06de14087d(으)로 업데이트하였습니다.
+R37 속성이 업데이트되었습니다.
+R37 핀 1을(를) IN_WL에 연결했습니다.
+R37 핀 2을(를) +5VP에 연결했습니다.
+U1 핀 J2-1을(를) +3.3V에 연결했습니다.
+U6 핀 4을(를) PWM1_H에 연결했습니다.
+U6 핀 2을(를) GND에 연결했습니다.
+U1 핀 J2-5을(를) VDC_sensor에 연결했습니다.
+U6 핀 15을(를) GND2에 연결했습니다.
+U1 핀 J2-4을(를) I_Vphase에 연결했습니다.
+U1 핀 J2-3을(를) I_Uphase에 연결했습니다.
+U1 핀 J2-19을(를) +5V에 연결했습니다.
+U1 핀 J2-2을(를) +3.3V에 연결했습니다.
+U4이(가) 추가되었습니다 (풋프린트 'inv24VLib:SOIC127P600X175-8N').
+U1 속성이 업데이트되었습니다.
+U1 심볼 관련성을 에서 /7d0e09f9-5617-4816-95f2-9d60a17118a3(으)로 업데이트하였습니다.
+U6 핀 16을(를) +5VP에 연결했습니다.
+값 U1을(를) MODULE_ESP32-DEVKITC-32D에서 ESP32-DEVKITC-32D(으)로 변경하였습니다.
+참조 지정자 REF**을(를) U1(으)로 변경하였습니다.
+U1이(가) 추가되었습니다 (풋프린트 'inv24VLib:MODULE_ESP32-DEVKITC-32D').
+R48 핀 2을(를) +3.3V에 연결했습니다.
+R48 심볼 관련성을 에서 /ec958049-da70-4bd5-a026-0585c8abbdc9(으)로 업데이트하였습니다.
+U6 핀 5을(를) PWM2_H에 연결했습니다.
+U1 핀 J3-16을(를) unconnected-(U1-IO15-PadJ3-16)에 연결했습니다.
+U3 핀 4을(를) U_phase에 연결했습니다.
+R48 핀 1을(를) DIGITAL_CMD에 연결했습니다.
+참조 지정자 REF**을(를) U4(으)로 변경하였습니다.
+값 U4을(를) SOIC127P600X175-8N에서 ACS712ELCTR30AT(으)로 변경하였습니다.
+U4 심볼 관련성을 에서 /23daecb4-6cd5-4410-a597-63f688af4580(으)로 업데이트하였습니다.
+U6 핀 3을(를) PWM0_H에 연결했습니다.
+U4 속성이 업데이트되었습니다.
+U4 핀 1을(를) V_sensor에 연결했습니다.
+U4 핀 2을(를) V_sensor에 연결했습니다.
+U4 핀 3을(를) V_phase에 연결했습니다.
+U4 핀 4을(를) V_phase에 연결했습니다.
+U4 핀 5을(를) GND에 연결했습니다.
+U4 핀 6을(를) Net-(U4-FILTER)에 연결했습니다.
+R46 핀 2을(를) GND에 연결했습니다.
+U1 핀 J3-11을(를) SCI_TXD에 연결했습니다.
+U1 핀 J3-5을(를) unconnected-(U1-RXD0-PadJ3-5)에 연결했습니다.
+U1 핀 J3-6을(를) I2C_SDA에 연결했습니다.
+U1 핀 J3-7을(를) GND에 연결했습니다.
+U6 핀 12을(를) Net-(U6-OUTC)에 연결했습니다.
+U1 핀 J3-8을(를) DIGITAL_CMD에 연결했습니다.
+참조 지정자 REF**을(를) R34(으)로 변경하였습니다.
+U1 핀 J3-10을(를) unconnected-(U1-IO5-PadJ3-10)에 연결했습니다.
+U7 핀 16을(를) +5VP에 연결했습니다.
+U1 핀 J3-12을(를) SCI_RXD에 연결했습니다.
+U1 핀 J3-13을(를) unconnected-(U1-IO4-PadJ3-13)에 연결했습니다.
+U1 핀 J3-14을(를) unconnected-(U1-IO0-PadJ3-14)에 연결했습니다.
+U6 핀 11을(를) unconnected-(U6-OUTD-Pad11)에 연결했습니다.
+U1 핀 J3-15을(를) unconnected-(U1-IO2-PadJ3-15)에 연결했습니다.
+U1 핀 J3-9을(를) RELAY_TRIP에 연결했습니다.
+R33 핀 1을(를) Net-(U7-OUTB)에 연결했습니다.
+U4 핀 8을(를) +5V에 연결했습니다.
+U5이(가) 추가되었습니다 (풋프린트 'Package_TO_SOT_THT:TO-220-5_Vertical').
+값 U7을(를) SOIC127P1030X265-16N에서 ISO7340CDW(으)로 변경하였습니다.
+R47이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+참조 지정자 REF**을(를) R47(으)로 변경하였습니다.
+값 R47을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 470(으)로 변경하였습니다.
+R47 심볼 관련성을 에서 /79579662-9d78-4df5-8ac5-47af7715b300(으)로 업데이트하였습니다.
+R47 속성이 업데이트되었습니다.
+참조 지정자 REF**을(를) U7(으)로 변경하였습니다.
+R47 핀 1을(를) Net-(J9-Pin_2)에 연결했습니다.
+R47 핀 2을(를) GND에 연결했습니다.
+U7이(가) 추가되었습니다 (풋프린트 'inv24VLib:SOIC127P1030X265-16N').
+R48이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+참조 지정자 REF**을(를) R48(으)로 변경하였습니다.
+값 R48을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 4.7K(으)로 변경하였습니다.
+값 R32을(를) R_0805_2012Metric에서 100(으)로 변경하였습니다.
+참조 지정자 REF**을(를) U8(으)로 변경하였습니다.
+참조 지정자 REF**을(를) R32(으)로 변경하였습니다.
+R32이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+R33 핀 2을(를) IN_VL에 연결했습니다.
+U3 핀 7을(를) Net-(U3-VIOUT)에 연결했습니다.
+U3 심볼 관련성을 에서 /640c88ee-21fc-4cdb-a015-0d4e1802d734(으)로 업데이트하였습니다.
+U3 핀 6을(를) Net-(U3-FILTER)에 연결했습니다.
+U3 핀 5을(를) GND에 연결했습니다.
+값 U3을(를) SOIC127P600X175-8N에서 ACS712ELCTR30AT(으)로 변경하였습니다.
+U3 핀 3을(를) U_phase에 연결했습니다.
+U3 핀 2을(를) U_sensor에 연결했습니다.
+U3 핀 1을(를) U_sensor에 연결했습니다.
+U3 속성이 업데이트되었습니다.
+U6 핀 6을(를) GND에 연결했습니다.
+U1 핀 J3-18을(를) unconnected-(U1-SD0-PadJ3-18)에 연결했습니다.
+참조 지정자 REF**을(를) U5(으)로 변경하였습니다.
+U6 속성이 업데이트되었습니다.
+R40이(가) 추가되었습니다 (풋프린트 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+U5 핀 3을(를) GND2에 연결했습니다.
+값 R40을(를) R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal에서 10K(으)로 변경하였습니다.
+값 U5을(를) TO-220-5_Vertical에서 LM2576HVT-5(으)로 변경하였습니다.
+R32 심볼 관련성을 에서 /1a967ae8-c7a7-431f-97ee-8643547bd206(으)로 업데이트하였습니다.
+R32 속성이 업데이트되었습니다.
+R32 핀 1을(를) Net-(U7-OUTA)에 연결했습니다.
+R32 핀 2을(를) IN_UL에 연결했습니다.
+U8이(가) 추가되었습니다 (풋프린트 'inv24VLib:SOIC127P1150X280-8N').
+R33이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+참조 지정자 REF**을(를) R33(으)로 변경하였습니다.
+값 R33을(를) R_0805_2012Metric에서 100(으)로 변경하였습니다.
+R33 심볼 관련성을 에서 /84d96e0c-87f8-4bfd-92e2-66960cd733f8(으)로 업데이트하였습니다.
+R33 속성이 업데이트되었습니다.
+값 U8을(를) SOIC127P1150X280-8N에서 AMC1300BDWVR(으)로 변경하였습니다.
+참조 지정자 REF**을(를) U3(으)로 변경하였습니다.
+U4 핀 7을(를) Net-(U4-VIOUT)에 연결했습니다.
+U5 심볼 관련성을 에서 /9367a888-bbfd-4aa5-ac3f-f95765de3ce2(으)로 업데이트하였습니다.
+U6 핀 1을(를) +3.3V에 연결했습니다.
+U5 속성이 업데이트되었습니다.
+U5 핀 1을(를) +15V에 연결했습니다.
+U5 핀 2을(를) Net-(D2-K)에 연결했습니다.
+U1 핀 J3-19을(를) unconnected-(U1-CLK-PadJ3-19)에 연결했습니다.
+U5 핀 4을(를) +5VP에 연결했습니다.
+U5 핀 5을(를) GND2에 연결했습니다.
+U3이(가) 추가되었습니다 (풋프린트 'inv24VLib:SOIC127P600X175-8N').
+U6 심볼 관련성을 에서 /739884b3-0801-4cf3-9bf5-540f69746bfe(으)로 업데이트하였습니다.
+U6이(가) 추가되었습니다 (풋프린트 'inv24VLib:SOIC127P1030X265-16N').
+참조 지정자 REF**을(를) U6(으)로 변경하였습니다.
+U6 핀 8을(를) GND에 연결했습니다.
+U1 핀 J3-17을(를) unconnected-(U1-SD1-PadJ3-17)에 연결했습니다.
+U6 핀 10을(를) +5VP에 연결했습니다.
+값 R34을(를) R_0805_2012Metric에서 100(으)로 변경하였습니다.
+U7 심볼 관련성을 에서 /7af64679-9694-42f2-a644-9a6b9809adcc(으)로 업데이트하였습니다.
+U2 핀 5을(를) GND에 연결했습니다.
+U2 핀 4을(를) +5V에 연결했습니다.
+U6 핀 9을(를) GND2에 연결했습니다.
+U2 핀 3을(를) GND에 연결했습니다.
+U2 핀 2을(를) Net-(D1-K)에 연결했습니다.
+U2 핀 1을(를) +24V에 연결했습니다.
+U2 속성이 업데이트되었습니다.
+U2 심볼 관련성을 에서 /9c83ffc8-51c6-491e-a1e8-047be25f8acb(으)로 업데이트하였습니다.
+값 U2을(를) TO-220-5_Vertical에서 LM2576HVT-5(으)로 변경하였습니다.
+참조 지정자 REF**을(를) U2(으)로 변경하였습니다.
+U2이(가) 추가되었습니다 (풋프린트 'Package_TO_SOT_THT:TO-220-5_Vertical').
+R34이(가) 추가되었습니다 (풋프린트 'Resistor_SMD:R_0805_2012Metric').
+U3 핀 8을(를) +5V에 연결했습니다.
+경고: 심볼 U7 핀 7에 대한 네트를 찾을 수 없습니다.
+경고: 심볼 C22 핀 +에 대한 네트를 찾을 수 없습니다.
+경고: 심볼 C22 핀 -에 대한 네트를 찾을 수 없습니다.
+경고: 심볼 U6 핀 7에 대한 네트를 찾을 수 없습니다.
+오류: C22 패드 2을(를) inv24VLib:CAPPRD1000W160D3600H5200에서 찾을 수 없습니다.
+오류: C22 패드 1을(를) inv24VLib:CAPPRD1000W160D3600H5200에서 찾을 수 없습니다.
+오류: J4 패드 MP을(를) Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical에서 찾을 수 없습니다.
+
+
+정보: 총 경고: 4개, 오류: 3개.
