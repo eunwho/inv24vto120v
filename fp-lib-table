@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "genCtrlPCB_Lib")(type "KiCad")(uri "/home/ew/Documents/genCtrl/genCtrlPCB/genCtrlPCB/genCtrlPCB_Lib")(options "")(descr ""))
+  (lib (name "inv24VLib")(type "KiCad")(uri "${KIPRJMOD}/inv24VLib")(options "")(descr ""))
+)

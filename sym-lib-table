@@ -1,3 +1,5 @@
 (sym_lib_table
   (version 7)
+  (lib (name "ERZ-VF2M560")(type "KiCad")(uri "${KIPRJMOD}/inv24VLib/ERZ-VF2M560.kicad_sym")(options "")(descr ""))
+  (lib (name "FOD817A")(type "KiCad")(uri "${KIPRJMOD}/inv24VLib/FOD817A.kicad_sym")(options "")(descr ""))
 )
