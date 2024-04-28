@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "ERZ-VF2M560")(type "KiCad")(uri "${KIPRJMOD}/inv24VLib/ERZ-VF2M560.kicad_sym")(options "")(descr ""))
   (lib (name "FOD817A")(type "KiCad")(uri "${KIPRJMOD}/inv24VLib/FOD817A.kicad_sym")(options "")(descr ""))
+  (lib (name "24_1508d")(type "KiCad")(uri "${KIPRJMOD}/inv24VLib/24_1508d.kicad_sym")(options "")(descr ""))
+  (lib (name "ewDCDC_24_1508d")(type "KiCad")(uri "${KIPRJMOD}/inv24VLib/ewDCDC_24_1508d.kicad_sym")(options "")(descr ""))
 )

@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "genCtrlPCB_Lib")(type "KiCad")(uri "/home/ew/Documents/genCtrl/genCtrlPCB/genCtrlPCB/genCtrlPCB_Lib")(options "")(descr ""))
   (lib (name "inv24VLib")(type "KiCad")(uri "${KIPRJMOD}/inv24VLib")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "/home/ew/Documents/통전개발/kiCad_lib/ewDCDC24_1508D.pretty/Library.pretty")(options "")(descr ""))
 )
