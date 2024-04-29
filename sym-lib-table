@@ -7,4 +7,6 @@
   (lib (name "NFA5046")(type "KiCad")(uri "/home/ew/Documents/통전개발/kiCad_lib/NFA50460R4B.kicad_sym")(options "")(descr ""))
   (lib (name "NTE_DCDC")(type "KiCad")(uri "/home/ew/Documents/통전개발/kiCad_lib/NTE_DCDC.kicad_sym")(options "")(descr ""))
   (lib (name "CSS2728JT40L0")(type "KiCad")(uri "/home/ew/Documents/통전개발/kiCad_lib/CSS2728JT40L0.kicad_sym")(options "")(descr ""))
+  (lib (name "35313")(type "KiCad")(uri "${KILIB}/35313-0260.kicad_sym")(options "")(descr ""))
+  (lib (name "353130460")(type "KiCad")(uri "${KILIB}/35313-0460.kicad_sym")(options "")(descr ""))
 )
