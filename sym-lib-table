@@ -5,4 +5,6 @@
   (lib (name "24_1508d")(type "KiCad")(uri "${KIPRJMOD}/inv24VLib/24_1508d.kicad_sym")(options "")(descr ""))
   (lib (name "ewDCDC_24_1508d")(type "KiCad")(uri "${KIPRJMOD}/inv24VLib/ewDCDC_24_1508d.kicad_sym")(options "")(descr ""))
   (lib (name "NFA5046")(type "KiCad")(uri "/home/ew/Documents/통전개발/kiCad_lib/NFA50460R4B.kicad_sym")(options "")(descr ""))
+  (lib (name "NTE_DCDC")(type "KiCad")(uri "/home/ew/Documents/통전개발/kiCad_lib/NTE_DCDC.kicad_sym")(options "")(descr ""))
+  (lib (name "CSS2728JT40L0")(type "KiCad")(uri "/home/ew/Documents/통전개발/kiCad_lib/CSS2728JT40L0.kicad_sym")(options "")(descr ""))
 )
