@@ -1,0 +1,165 @@
+(footprint "LF25_151_30VB"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "L_CommonMode_Toroid, Vertical series, Radial, pin pitch=15.24*22.86mm^2, , length*width=39.37*20.32mm^2, Bourns, 8100, http://datasheet.octopart.com/8120-RC-Bourns-datasheet-10228452.pdf")
+	(tags "L_CommonMode_Toroid Vertical series Radial pin pitch 15.24*22.86mm^2  length 39.37mm width 20.32mm Bourns 8100")
+	(property "Reference" "L6"
+		(at 11.43 -3.79 0)
+		(layer "F.SilkS")
+		(uuid "c1bb9434-6a03-4b67-8644-0645ad8a4738")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LF25-151-30A"
+		(at 11.43 19.03 0)
+		(layer "F.Fab")
+		(uuid "22c5ca96-d946-4ebb-b3f7-bab661cf78e1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "LF25-151-30A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dbc8553a-80b0-4cd3-8f9c-f05861f1f03e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.devicemart.co.kr/goods/download?id=31732&rank=1"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a44b4c1c-2826-4122-97c3-fb2977390b7e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "choke coil 33x21mm 21x7.5mm pitch "
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b950d1c7-ed5e-4c14-a502-ba3b0cf8c2fa")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "MF" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b4a39b7b-c39b-403f-84b1-d0c2ffb7a07d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -2 -14)
+		(end 23 21)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "2dab6aa7-618b-4045-bb1d-df14d3e6f236")
+	)
+	(fp_rect
+		(start 0 -13)
+		(end 21 20)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "5dc0e9fd-6a67-4658-b071-944faff7ba5c")
+	)
+	(fp_line
+		(start 31.115 0)
+		(end -8.255 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6ebb32ff-2fb2-4ff4-b218-b6a763e7bfe9")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 7.62 0 0)
+		(layer "F.Fab")
+		(uuid "59922e9d-c51e-4277-af7a-51cbe7c55547")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "91606e08-4627-44bd-9b3e-00e4a5ec8ae0")
+	)
+	(pad "2" thru_hole circle
+		(at 0 7.5)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2c511a12-61fb-4959-80f4-7d8f2080244c")
+	)
+	(pad "3" thru_hole circle
+		(at 21 7.5)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7598eb13-f5ad-405d-bf2c-e6dcd7ba82a8")
+	)
+	(pad "4" thru_hole circle
+		(at 21 0)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "62305298-b470-40d9-9e02-6acf661f2854")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_CommonMode_Toroid_Vertical_L39.4mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

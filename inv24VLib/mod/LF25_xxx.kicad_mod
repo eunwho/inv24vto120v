@@ -1,0 +1,165 @@
+(footprint "LF25_xxx"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "L_CommonMode_Toroid, Vertical series, Radial, pin pitch=15.24*22.86mm^2, , length*width=39.37*20.32mm^2, Bourns, 8100, http://datasheet.octopart.com/8120-RC-Bourns-datasheet-10228452.pdf")
+	(tags "L_CommonMode_Toroid Vertical series Radial pin pitch 15.24*22.86mm^2  length 39.37mm width 20.32mm Bourns 8100")
+	(property "Reference" "L6"
+		(at 11.43 -3.79 0)
+		(layer "F.SilkS")
+		(uuid "b6533705-8428-403c-b121-bffcf8d978a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_Ferrite_Coupled_1423"
+		(at 11.43 19.03 0)
+		(layer "F.Fab")
+		(uuid "40fcd599-7e71-416a-8fb4-601b2bb5f35e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Inductor_THT:L_CommonMode_Toroid_Vertical_L39.4mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "87e39a6d-0fdb-4e54-85df-78d8e5eb6cc8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e5df2408-2a73-4b09-aa59-fc7b95404522")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Coupled inductor with ferrite core"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "60389bbc-aa52-437e-9d49-10c34cd7a6e8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "MF" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "20cb4232-a97c-4360-80f6-bb1ac25fbfd2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -2 -14)
+		(end 23 21)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "75a4f31f-28f0-41d8-bc54-7083ee423391")
+	)
+	(fp_rect
+		(start 0 -13)
+		(end 21 20)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "eb5360aa-ee02-41a4-b9fa-6f990e436b98")
+	)
+	(fp_line
+		(start 31.115 0)
+		(end -8.255 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bdfad8c8-54f9-4723-9da5-fdeebd20ae44")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 7.62 0 0)
+		(layer "F.Fab")
+		(uuid "2dc3d0ba-d46a-4a8a-babc-c9106e5ecbf4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 4 4)
+		(drill 2.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "97b99641-12fc-456e-ba90-7150de22cabe")
+	)
+	(pad "2" thru_hole circle
+		(at 0 7.5)
+		(size 4 4)
+		(drill 2.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1c3539d3-6f8d-46af-a698-26e78f2d4858")
+	)
+	(pad "3" thru_hole circle
+		(at 21 7.5)
+		(size 4 4)
+		(drill 2.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c1ab7e02-beb0-41cb-ad80-df2cbf5ad03f")
+	)
+	(pad "4" thru_hole circle
+		(at 21 0)
+		(size 4 4)
+		(drill 2.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d0e9c648-0c17-490a-bdd5-a017cd6fb688")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_CommonMode_Toroid_Vertical_L39.4mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

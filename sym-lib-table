@@ -4,4 +4,5 @@
   (lib (name "FOD817A")(type "KiCad")(uri "${KIPRJMOD}/inv24VLib/FOD817A.kicad_sym")(options "")(descr ""))
   (lib (name "24_1508d")(type "KiCad")(uri "${KIPRJMOD}/inv24VLib/24_1508d.kicad_sym")(options "")(descr ""))
   (lib (name "ewDCDC_24_1508d")(type "KiCad")(uri "${KIPRJMOD}/inv24VLib/ewDCDC_24_1508d.kicad_sym")(options "")(descr ""))
+  (lib (name "pq5050")(type "KiCad")(uri "${KIPRJMOD}/inv24VLib/sym/pq5050.kicad_sym")(options "")(descr ""))
 )
