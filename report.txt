@@ -1,253 +1,572 @@
-Info: Processing symbol 'D4:Diode_THT:D_DO-201AD_P15.24mm_Horizontal'.
-Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C37:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'R34:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'D1:Diode_THT:D_DO-201AD_P15.24mm_Horizontal'.
-Info: Processing symbol 'D2:Diode_THT:D_DO-201AD_P15.24mm_Horizontal'.
-Info: Processing symbol 'R33:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'D3:Diode_THT:D_DO-201AD_P15.24mm_Horizontal'.
-Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C36:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'R32:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'D5:Diode_THT:D_DO-201AD_P15.24mm_Horizontal'.
-Info: Processing symbol 'R19:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'D6:Diode_THT:D_DO-201AD_P15.24mm_Horizontal'.
-Info: Processing symbol 'R31:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'D7:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
-Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'IC1:inv24VLib:TRANS_FNA41560B2'.
-Info: Processing symbol 'R35:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'C35:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm'.
-Info: Processing symbol 'R18:Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal'.
-Info: Processing symbol 'C34:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'R36:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'C33:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'R4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C32:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'R37:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'C31:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'C30:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'R40:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C29:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'C28:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'R42:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'R26:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'Q4:Package_TO_SOT_THT:TO-92_Inline'.
-Info: Processing symbol 'Q3:Package_TO_SOT_THT:TO-92_Inline'.
-Info: Processing symbol 'R23:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'Q2:Package_TO_SOT_THT:TO-220-3_Vertical'.
-Info: Processing symbol 'R21:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-220-3_Vertical'.
-Info: Processing symbol 'R24:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'L3:Inductor_THT:L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3'.
-Info: Processing symbol 'BX1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'L2:Inductor_THT:L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3'.
-Info: Processing symbol 'Q5:Package_TO_SOT_THT:TO-92_Inline'.
-Info: Processing symbol 'L1:Inductor_THT:L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3'.
-Info: Processing symbol 'R25:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'K1:inv24VLib:RELAY_J0971CS5VDC.45'.
-Info: Processing symbol 'J9:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
-Info: Processing symbol 'R5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'J8:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal'.
-Info: Processing symbol 'Q6:Package_TO_SOT_THT:TO-92_Inline'.
-Info: Processing symbol 'J7:TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-03_P10.00mm'.
-Info: Processing symbol 'R27:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'J6:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal'.
-Info: Processing symbol 'R20:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'J5:TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-02_P10.00mm'.
-Info: Processing symbol 'R28:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'J4:Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical'.
-Info: Processing symbol 'Q7:Package_TO_SOT_THT:TO-92_Inline'.
-Info: Processing symbol 'J3:TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-02_P10.00mm'.
-Info: Processing symbol 'R29:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'J2:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal'.
-Info: Processing symbol 'J1:TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-03_P10.00mm'.
-Info: Processing symbol 'R30:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'R10:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'C4:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm'.
-Info: Processing symbol 'R11:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C5:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'U5:Package_TO_SOT_THT:TO-220-5_Vertical'.
-Info: Processing symbol 'C6:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'C7:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'U4:inv24VLib:SOIC127P600X175-8N'.
-Info: Processing symbol 'C8:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'U6:inv24VLib:SOIC127P1030X265-16N'.
-Info: Processing symbol 'C9:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'U3:inv24VLib:SOIC127P600X175-8N'.
-Info: Processing symbol 'C10:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'R15:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C11:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'C27:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'C12:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'U2:Package_TO_SOT_THT:TO-220-5_Vertical'.
-Info: Processing symbol 'C3:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm'.
-Info: Processing symbol 'R14:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C2:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm'.
-Info: Processing symbol 'U7:inv24VLib:SOIC127P1030X265-16N'.
-Info: Processing symbol 'C1:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm'.
-Info: Processing symbol 'R12:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'BX6:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'U8:AMC1300BDWVR:SOIC127P1150X280-8N'.
-Info: Processing symbol 'BX5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'U9:Package_DIP:DIP-4_W7.62mm'.
-Info: Processing symbol 'BX4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'BX3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'U10:Package_DIP:DIP-4_W7.62mm'.
-Info: Processing symbol 'BX2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'R13:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C20:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'R17:Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal'.
-Info: Processing symbol 'C26:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'R43:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C25:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'R6:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C24:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'R44:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C23:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'C22:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'R45:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C21:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'R7:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'R9:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'R46:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C19:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm'.
-Info: Processing symbol 'R48:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C13:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm'.
-Info: Processing symbol 'U1:inv24VLib:MODULE_ESP32-DEVKITC-32D'.
-Info: Processing symbol 'C14:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm'.
-Info: Processing symbol 'C15:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm'.
-Info: Processing symbol 'R16:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C16:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'R8:Resistor_SMD:R_0805_2012Metric'.
-Info: Processing symbol 'C17:Capacitor_SMD:C_0805_2012Metric'.
-Info: Processing symbol 'R47:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C18:Capacitor_SMD:C_0805_2012Metric'.
-Add R16 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R20 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R18 (footprint 'Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal').
-Add R19 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R17 (footprint 'Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal').
-Add R15 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R13 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R14 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R34 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add U2 (footprint 'Package_TO_SOT_THT:TO-220-5_Vertical').
-Add R42 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R43 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R44 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R45 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R46 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R47 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R48 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add U1 (footprint 'inv24VLib:MODULE_ESP32-DEVKITC-32D').
-Add R40 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add U3 (footprint 'inv24VLib:SOIC127P600X175-8N').
-Add U4 (footprint 'inv24VLib:SOIC127P600X175-8N').
-Add U5 (footprint 'Package_TO_SOT_THT:TO-220-5_Vertical').
-Add U6 (footprint 'inv24VLib:SOIC127P1030X265-16N').
-Add U7 (footprint 'inv24VLib:SOIC127P1030X265-16N').
-Add U9 (footprint 'Package_DIP:DIP-4_W7.62mm').
-Add U10 (footprint 'Package_DIP:DIP-4_W7.62mm').
-Add R21 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R37 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R36 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R35 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add L2 (footprint 'Inductor_THT:L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3').
-Add R33 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R32 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R31 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R30 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R29 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R28 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R27 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R26 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R25 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R24 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R23 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add C25 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C15 (footprint 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
-Add C16 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C17 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C18 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C19 (footprint 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
-Add C20 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C21 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C22 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C23 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C24 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C14 (footprint 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
-Add C26 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C27 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C28 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C29 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C30 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C31 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C32 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C33 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C34 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C4 (footprint 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
-Add BX1 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add BX2 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add BX3 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add BX4 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add BX5 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add BX6 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add C1 (footprint 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
-Add C2 (footprint 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
-Add C3 (footprint 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
-Add C35 (footprint 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
-Add C5 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C6 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C7 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C8 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C9 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C10 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C11 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C12 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C13 (footprint 'Capacitor_THT:CP_Radial_D8.0mm_P5.00mm').
-Add R2 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R12 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add L3 (footprint 'Inductor_THT:L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3').
-Add Q1 (footprint 'Package_TO_SOT_THT:TO-220-3_Vertical').
-Add Q2 (footprint 'Package_TO_SOT_THT:TO-220-3_Vertical').
-Add Q3 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
-Add Q4 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
-Add Q5 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
-Add Q6 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
-Add Q7 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
-Add R1 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add L1 (footprint 'Inductor_THT:L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3').
-Add R3 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R4 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R5 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R6 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R7 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R8 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R9 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R10 (footprint 'Resistor_SMD:R_0805_2012Metric').
-Add R11 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add IC1 (footprint 'inv24VLib:TRANS_FNA41560B2').
-Add C36 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add C37 (footprint 'Capacitor_SMD:C_0805_2012Metric').
-Add D1 (footprint 'Diode_THT:D_DO-201AD_P15.24mm_Horizontal').
-Add D2 (footprint 'Diode_THT:D_DO-201AD_P15.24mm_Horizontal').
-Add D3 (footprint 'Diode_THT:D_DO-201AD_P15.24mm_Horizontal').
-Add D4 (footprint 'Diode_THT:D_DO-201AD_P15.24mm_Horizontal').
-Add D5 (footprint 'Diode_THT:D_DO-201AD_P15.24mm_Horizontal').
-Add D6 (footprint 'Diode_THT:D_DO-201AD_P15.24mm_Horizontal').
-Add D7 (footprint 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal').
-Add K1 (footprint 'inv24VLib:RELAY_J0971CS5VDC.45').
-Add J1 (footprint 'TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-03_P10.00mm').
-Add J2 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal').
-Add J3 (footprint 'TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-02_P10.00mm').
-Add J4 (footprint 'Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical').
-Add J5 (footprint 'TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-02_P10.00mm').
-Add J6 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal').
-Add J7 (footprint 'TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-03_P10.00mm').
-Add J8 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal').
-Add J9 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal').
-Error: Cannot add U8 (footprint 'AMC1300BDWVR:SOIC127P1150X280-8N' not found).
+정보: 심볼 'Z2:mod:DIOM5027X244N' 처리 중입니다.
+정보: 심볼 'BC8:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'Q4:Package_TO_SOT_SMD:SOT-89-3' 처리 중입니다.
+정보: 심볼 'Q3:Package_TO_SOT_SMD:SOT-89-3' 처리 중입니다.
+정보: 심볼 'R17:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder' 처리 중입니다.
+정보: 심볼 'Q7:mod:TO254P465X1028X1931-3P' 처리 중입니다.
+정보: 심볼 'BC9:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'Q1:Package_TO_SOT_THT:TO-220-3_Horizontal_TabUp' 처리 중입니다.
+정보: 심볼 'PS1:mod:NTE0505MC' 처리 중입니다.
+정보: 심볼 'Z3:mod:DIOM5027X244N' 처리 중입니다.
+정보: 심볼 'BC10:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'R16:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'LED2:LEDC2012X120N' 처리 중입니다.
+정보: 심볼 'Z1:mod:SOD3716X135N' 처리 중입니다.
+정보: 심볼 'BC11:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'R2:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'R5:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'BC2:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'R4:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'R6:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'BC3:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'C17:Capacitor_SMD:CP_Elec_16x17.5' 처리 중입니다.
+정보: 심볼 'C12:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R42:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'R19:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder' 처리 중입니다.
+정보: 심볼 'D11:Diode_SMD:D_SOD-323_HandSoldering' 처리 중입니다.
+정보: 심볼 'C14:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R41:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder' 처리 중입니다.
+정보: 심볼 'C15:Capacitor_SMD:CP_Elec_16x17.5' 처리 중입니다.
+정보: 심볼 'R29:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'C16:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder' 처리 중입니다.
+정보: 심볼 'D10:Diode_SMD:D_SOD-323_HandSoldering' 처리 중입니다.
+정보: 심볼 'BC4:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'C18:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder' 처리 중입니다.
+정보: 심볼 'D8:mod:TO507P1020X460X2000-2' 처리 중입니다.
+정보: 심볼 'C19:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder' 처리 중입니다.
+정보: 심볼 'BC17:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'R14:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'BC7:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'Q6:Package_TO_SOT_SMD:SOT-89-3' 처리 중입니다.
+정보: 심볼 'R15:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'Q5:Package_TO_SOT_SMD:SOT-89-3' 처리 중입니다.
+정보: 심볼 'J5:TerminalBlock_Wuerth:Wuerth_REDCUBE-THR_WP-THRBU_74650073_THR' 처리 중입니다.
+정보: 심볼 'U1:inv24VLib:MODULE_ESP32-DEVKITC-32D' 처리 중입니다.
+정보: 심볼 'TR1:mod:pq5050h' 처리 중입니다.
+정보: 심볼 'LED1:LEDC2012X120N' 처리 중입니다.
+정보: 심볼 'BC15:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'SW1:mod:418117270902' 처리 중입니다.
+정보: 심볼 'RV3:mod:VAR_ERZ-VF2M560' 처리 중입니다.
+정보: 심볼 'J12:TerminalBlock_Wuerth:Wuerth_REDCUBE-THR_WP-THRBU_74650073_THR' 처리 중입니다.
+정보: 심볼 'BC16:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'RV2:mod:VAR_ERZ-VF2M560' 처리 중입니다.
+정보: 심볼 'RV1:mod:VAR_ERZ-VF2M560' 처리 중입니다.
+정보: 심볼 'L2:mod:INDPM120120X600N' 처리 중입니다.
+정보: 심볼 'U5:mod:PDIP4GW_709AH_ONS-M' 처리 중입니다.
+정보: 심볼 'BC13:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'BC12:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'U3:genCtrlPCB_Lib:VREG_TPS79625KTTR' 처리 중입니다.
+정보: 심볼 'L5:mod:INDPM120120X600N' 처리 중입니다.
+정보: 심볼 'BC1:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'U4:genCtrlPCB_Lib:VREG_TPS79625KTTR' 처리 중입니다.
+정보: 심볼 'U15:mod:PDIP4GW_709AH_ONS-M' 처리 중입니다.
+정보: 심볼 'BX5:mod:BLM31KN102BH1L' 처리 중입니다.
+정보: 심볼 'BC6:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'R3:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'R7:Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder' 처리 중입니다.
+정보: 심볼 'R8:Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder' 처리 중입니다.
+정보: 심볼 'Q2:Package_TO_SOT_THT:TO-220-3_Horizontal_TabUp' 처리 중입니다.
+정보: 심볼 'BC5:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'R9:Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder' 처리 중입니다.
+정보: 심볼 'R10:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder' 처리 중입니다.
+정보: 심볼 'R11:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder' 처리 중입니다.
+정보: 심볼 'R1:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'R23:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'Q8:mod:STGIB20M60TSL' 처리 중입니다.
+정보: 심볼 'R12:mod:RESC2012X65N' 처리 중입니다.
+정보: 심볼 'R13:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'L1:mod:INDPM120120X600N' 처리 중입니다.
+정보: 심볼 'L4:mod:IND_HCTI-10-20.0' 처리 중입니다.
+정보: 심볼 'R18:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder' 처리 중입니다.
+정보: 심볼 'L3:mod:INDPM120120X600N' 처리 중입니다.
+정보: 심볼 'U2:genCtrlPCB_Lib:VREG_TPS79625KTTR' 처리 중입니다.
+정보: 심볼 'BC14:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'J2:mod:SHDR2W64P0X254_1X2_737X660X1181P' 처리 중입니다.
+정보: 심볼 'F1:mod:FUSE_3544-2' 처리 중입니다.
+정보: 심볼 'R43:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'C5:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R27:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder' 처리 중입니다.
+정보: 심볼 'BC23:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'J4:TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-03_P10.00mm' 처리 중입니다.
+정보: 심볼 'RT1:mod:MS351R040' 처리 중입니다.
+정보: 심볼 'R51:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder' 처리 중입니다.
+정보: 심볼 'BC18:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'J3:mod:SHDR2W64P0X254_1X2_737X660X1181P' 처리 중입니다.
+정보: 심볼 'C4:Capacitor_THT:CP_Radial_D18.0mm_P7.50mm' 처리 중입니다.
+정보: 심볼 'BC19:mod:CAPC2012X95N' 처리 중입니다.
+정보: 심볼 'J1:mod:SHDR4W97P0X254_1X4_1271X660X1143P' 처리 중입니다.
+정보: 심볼 'R20:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'IC2:SOIC127P600X175-8N' 처리 중입니다.
+정보: 심볼 'R49:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'C6:Capacitor_SMD:CP_Elec_16x17.5' 처리 중입니다.
+정보: 심볼 'IC1:SOIC127P600X175-8N' 처리 중입니다.
+정보: 심볼 'R21:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'H6:MountingHole:MountingHole_4.3mm_M4_Pad_Via' 처리 중입니다.
+정보: 심볼 'R25:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'C11:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder' 처리 중입니다.
+정보: 심볼 'H2:MountingHole:MountingHole_4.3mm_M4_Pad_Via' 처리 중입니다.
+정보: 심볼 'BX3:mod:BLM31KN102BH1L' 처리 중입니다.
+정보: 심볼 'H1:MountingHole:MountingHole_4.3mm_M4_Pad_Via' 처리 중입니다.
+정보: 심볼 'R24:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'R45:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'BX4:mod:BLM31KN102BH1L' 처리 중입니다.
+정보: 심볼 'FL1:ACT45B1012PTL003' 처리 중입니다.
+정보: 심볼 'F5:Fuse:Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder' 처리 중입니다.
+정보: 심볼 'D12:Diode_SMD:D_SOD-323_HandSoldering' 처리 중입니다.
+정보: 심볼 'F4:Fuse:Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder' 처리 중입니다.
+정보: 심볼 'R44:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'H3:MountingHole:MountingHole_4.3mm_M4_Pad_Via' 처리 중입니다.
+정보: 심볼 'C1:Capacitor_THT:CP_Radial_D18.0mm_P7.50mm' 처리 중입니다.
+정보: 심볼 'F3:Fuse:Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder' 처리 중입니다.
+정보: 심볼 'R26:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder' 처리 중입니다.
+정보: 심볼 'C2:Capacitor_SMD:CP_Elec_16x17.5' 처리 중입니다.
+정보: 심볼 'F2:mod:FUSE_3544-2' 처리 중입니다.
+정보: 심볼 'C3:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder' 처리 중입니다.
+정보: 심볼 'D1:mod:TO507P1020X460X2000-2' 처리 중입니다.
+정보: 심볼 'R32:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'C28:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R35:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder' 처리 중입니다.
+정보: 심볼 'C30:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'D2:Diode_SMD:D_SMA_Handsoldering' 처리 중입니다.
+정보: 심볼 'C31:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R34:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'C56:Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'C62:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R33:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'H5:MountingHole:MountingHole_4.3mm_M4_Pad_Via' 처리 중입니다.
+정보: 심볼 'C13:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'D14:Diode_SMD:D_SOD-323_HandSoldering' 처리 중입니다.
+정보: 심볼 'C7:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder' 처리 중입니다.
+정보: 심볼 'C8:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder' 처리 중입니다.
+정보: 심볼 'D13:Diode_SMD:D_SMA_Handsoldering' 처리 중입니다.
+정보: 심볼 'C9:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder' 처리 중입니다.
+정보: 심볼 'R28:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder' 처리 중입니다.
+정보: 심볼 'C10:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'BX1:mod:BLM31KN102BH1L' 처리 중입니다.
+정보: 심볼 'R38:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'R30:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'R22:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'R48:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'H4:MountingHole:MountingHole_4.3mm_M4_Pad_Via' 처리 중입니다.
+정보: 심볼 'BX2:mod:BLM31KN102BH1L' 처리 중입니다.
+정보: 심볼 'R47:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder' 처리 중입니다.
+정보: 심볼 'R46:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder' 처리 중입니다.
+정보: 심볼 'C27:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'C20:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'C21:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'R40:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'D5:Diode_SMD:D_SMA_Handsoldering' 처리 중입니다.
+정보: 심볼 'R31:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder' 처리 중입니다.
+정보: 심볼 'D4:mod:DIOM5127X229N' 처리 중입니다.
+정보: 심볼 'C22:Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn' 처리 중입니다.
+정보: 심볼 'D3:mod:DIOM5127X229N' 처리 중입니다.
+정보: 심볼 'C23:Capacitor_SMD:C_0805_2012Metric' 처리 중입니다.
+정보: 심볼 'D7:mod:DIOM5127X229N' 처리 중입니다.
+심볼에 없는 BC10 풋프린트 필드 제거.
+BC10 필드 업데이트.
+BC10 심볼 관련성을 /f6d386c5-1ab1-4867-9c39-f97680fd6143에서 /4fa105fc-3a9b-414b-bf7f-0775b9f49aa2(으)로 업데이트합니다.
+BC9 핀 1을(를) Net-(D4-K)에서 VDC_sensor(으)로 재연결합니다.
+BC9 핀 2을(를) Net-(IC1-VS(W))에서 GND(으)로 재연결합니다.
+심볼에 없는 BC9 풋프린트 필드 제거.
+BC9 필드 업데이트.
+BC9 심볼 관련성을 /870a87c8-0bca-44f5-a715-eb52d59142d1에서 /dd2a724f-f251-49dd-a287-5725e1b1e83f(으)로 업데이트합니다.
+BC8 핀 1을(를) +5VP에서 Net-(BC8-Pad1)(으)로 재연결합니다.
+BX4 심볼 관련성을 /dec74c70-1009-4dc0-96b0-7d4f517d2733에서 /49b699f0-1281-49fc-9f46-b74277e05b75(으)로 업데이트합니다.
+BC8 핀 2을(를) GND2에서 GNDPWR(으)로 재연결합니다.
+심볼에 없는 BC8 풋프린트 필드 제거.
+BC10 핀 2을(를) Net-(IC1-VS(V))에서 GND(으)로 재연결합니다.
+BC10 핀 1을(를) Net-(D3-K)에서 +24V(으)로 재연결합니다.
+BC11 심볼 관련성을 /76b005bc-bfed-4bb7-81eb-a837450c19e3에서 /9dc48647-0812-4c71-9b45-0190f20c2e9b(으)로 업데이트합니다.
+BC11 필드 업데이트.
+네트 Net-(BC8-Pad1)을(를) 추가합니다.
+BC1 심볼 관련성을 /bcb5af8f-48ff-42c8-b395-e5d943d3eaad에서 /8d6ca0da-7348-4d2a-af7f-034b1f6fa8c4(으)로 업데이트합니다.
+BC1 필드 업데이트.
+심볼에 없는 BC1 풋프린트 필드 제거.
+BC1 핀 2을(를) GND1에서 GND(으)로 재연결합니다.
+BC1 핀 1을(를) +5P에서 DIN_A(으)로 재연결합니다.
+BC2 심볼 관련성을 /2ddfb537-180e-41bb-8455-291118d62a04에서 /b3837341-5810-487b-97fa-5bc8c6541d67(으)로 업데이트합니다.
+BC2 필드 업데이트.
+심볼에 없는 BC2 풋프린트 필드 제거.
+풋프린트 J3을(를) 'Connector_Molex:Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical'에서 'mod:SHDR2W64P0X254_1X2_737X660X1181P'(으)로 변경합니다.
+값 J12을(를) Screw_Terminal_01x01에서 BR-120(으)로 변경합니다.
+J12 필드 업데이트.
+풋프린트 L1을(를) 'Inductor_SMD:L_12x12mm_H8mm'에서 'mod:INDPM120120X600N'(으)로 변경합니다.
+풋프린트 L2을(를) 'Inductor_SMD:L_12x12mm_H8mm'에서 'mod:INDPM120120X600N'(으)로 변경합니다.
+풋프린트 L3을(를) 'Inductor_SMD:L_12x12mm_H8mm'에서 'mod:INDPM120120X600N'(으)로 변경합니다.
+풋프린트 L4을(를) 'inv24VLib:IND_HCTI-10-20.0'에서 'mod:IND_HCTI-10-20.0'(으)로 변경합니다.
+LED1 추가 (풋프린트 'LEDC2012X120N').
+LED2 추가 (풋프린트 'LEDC2012X120N').
+PS1 추가 (풋프린트 'mod:NTE0505MC').
+Q1 필드 업데이트.
+Q2 심볼 관련성을 /bd2e6f34-e0b4-480b-b510-9d32f1bda062에서 /b574db8e-e24d-424e-a77c-5bdcf08cac1f(으)로 업데이트합니다.
+Q2 필드 업데이트.
+BC8 필드 업데이트.
+네트 PHASE_W을(를) 추가합니다.
+BC6 핀 2을(를) GND2에서 PHASE_W(으)로 재연결합니다.
+네트 VBOOT_W을(를) 추가합니다.
+BC6 핀 1을(를) +5VP에서 VBOOT_W(으)로 재연결합니다.
+BC7 심볼 관련성을 /2e741f62-da0a-440c-8b6e-4d0f4e8ed776에서 /e867b13b-4a33-4228-a907-9472a1f5f37c(으)로 업데이트합니다.
+BC7 필드 업데이트.
+BX1 필드 업데이트.
+심볼에 없는 BC7 풋프린트 필드 제거.
+BC7 핀 2을(를) GND에서 GND2(으)로 재연결합니다.
+BC7 핀 1을(를) +3.3V에서 +15V(으)로 재연결합니다.
+BC8 심볼 관련성을 /d2bb9698-4b0f-422a-936d-ba793cdabb30에서 /d5fdaf6d-7d64-49d7-bedc-2287a996fab2(으)로 업데이트합니다.
+BX2 심볼 관련성을 /6f85283a-89a7-4297-8e85-64d62c59f135에서 /924e5490-2049-4561-832d-3c6b8086bd55(으)로 업데이트합니다.
+BC19 필드 업데이트.
+심볼에 없는 BC19 풋프린트 필드 제거.
+네트 Net-(D1-A)을(를) 추가합니다.
+BC19 핀 1을(를) +5V에서 Net-(D1-A)(으)로 재연결합니다.
+BC23 필드 업데이트.
+심볼에 없는 BC23 풋프린트 필드 제거.
+BC23 핀 1을(를) 15V_H_IN에서 +15V(으)로 재연결합니다.
+BX1 심볼 관련성을 /fb66a510-57fc-4c14-8e21-690bb75d40a9에서 /befdcd69-cb19-425a-8c5e-48c31fdcbf54(으)로 업데이트합니다.
+심볼에 없는 BC11 풋프린트 필드 제거.
+심볼에 없는 BX1 풋프린트 필드 제거.
+BX1 핀 1을(를) +5V에서 GND(으)로 재연결합니다.
+BX1 핀 2을(를) VTH_IPM에서 GNDPWR(으)로 재연결합니다.
+BC19 심볼 관련성을 /740e9e27-8fe7-4f9d-9f55-f7e151731695에서 /0f6baba3-1a30-4da1-a056-b39e35d9a825(으)로 업데이트합니다.
+BX2 필드 업데이트.
+심볼에 없는 BX2 풋프린트 필드 제거.
+네트 Net-(BX2-Pad1)을(를) 추가합니다.
+BX2 핀 1을(를) GND에서 Net-(BX2-Pad1)(으)로 재연결합니다.
+BX2 핀 2을(를) Net-(BC17-Pad2)에서 +5V(으)로 재연결합니다.
+BX3 심볼 관련성을 /0f6f536f-76df-4c52-adc5-9770cb1517cc에서 /faacca88-045e-4f6c-83d5-9fe5bba72835(으)로 업데이트합니다.
+BX3 필드 업데이트.
+심볼에 없는 BX3 풋프린트 필드 제거.
+BX3 핀 1을(를) GND2에서 GND(으)로 재연결합니다.
+R4 핀 2을(를) Net-(Q2-G)에서 GND(으)로 재연결합니다.
+R42 핀 1을(를) +3.3V에서 Net-(R42-Pad1)(으)로 재연결합니다.
+심볼에 없는 BC5 풋프린트 필드 제거.
+BC3 필드 업데이트.
+심볼에 없는 BC3 풋프린트 필드 제거.
+BC3 핀 1을(를) +8VP_IN에서 +5P(으)로 재연결합니다.
+BC4 심볼 관련성을 /21a39788-7253-4f32-a53e-8a76d524235e에서 /35d13a5a-8931-4779-a565-17b1f2ce29b5(으)로 업데이트합니다.
+심볼에 없는 BC6 풋프린트 필드 제거.
+심볼에 없는 BC4 풋프린트 필드 제거.
+네트 VBOOT_U을(를) 추가합니다.
+BC4 핀 1을(를) GND에서 VBOOT_U(으)로 재연결합니다.
+네트 PHASE_U을(를) 추가합니다.
+BC4 핀 2을(를) +5V에서 PHASE_U(으)로 재연결합니다.
+BC5 심볼 관련성을 /4d43869a-a97c-4920-be73-654d5f18fa0b에서 /a708f6d4-17b1-4e36-a59a-b7f57005f633(으)로 업데이트합니다.
+BC5 필드 업데이트.
+BC3 심볼 관련성을 /a1205653-e190-490c-a979-12173be013c4에서 /20873af9-11c7-436a-bea2-cf15238e0fa3(으)로 업데이트합니다.
+네트 PHASE_V을(를) 추가합니다.
+BC5 핀 2을(를) GND에서 PHASE_V(으)로 재연결합니다.
+네트 VBOOT_V을(를) 추가합니다.
+BC5 핀 1을(를) +5V에서 VBOOT_V(으)로 재연결합니다.
+BC6 심볼 관련성을 /15e348ed-843e-4be7-acbd-24c4709240fb에서 /aba1b508-b6e0-496d-9a45-92bbe24aa9d5(으)로 업데이트합니다.
+BC6 필드 업데이트.
+BC4 필드 업데이트.
+BC18 심볼 관련성을 /f6452b6e-be03-4c35-98ad-3462ddd9fdda에서 /10fdec25-2bd9-43b7-9787-86a384566433(으)로 업데이트합니다.
+BC18 필드 업데이트.
+심볼에 없는 BC18 풋프린트 필드 제거.
+BC18 핀 1을(를) TEMPERATURE_IPM에서 +5V(으)로 재연결합니다.
+C4 필드 업데이트.
+F3 추가 (풋프린트 'Fuse:Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder').
+D2 추가 (풋프린트 'Diode_SMD:D_SMA_Handsoldering').
+BX4 필드 업데이트.
+네트 Net-(BX4-Pad1)을(를) 추가합니다.
+BX4 핀 1을(를) TEMPERATURE_IPM에서 Net-(BX4-Pad1)(으)로 재연결합니다.
+BX4 핀 2을(를) Net-(IC1-RTH)에서 GND(으)로 재연결합니다.
+BX5 추가 (풋프린트 'mod:BLM31KN102BH1L').
+C1 심볼 관련성을 /d31fa761-80d8-47cd-9bdf-c0f4bbbad620에서 /8dcbc8c5-0490-4035-80b4-ca58ac6440c1(으)로 업데이트합니다.
+C1 필드 업데이트.
+C2 추가 (풋프린트 'Capacitor_SMD:CP_Elec_16x17.5').
+C3 추가 (풋프린트 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+C4 심볼 관련성을 /6479a5a3-7a5a-4967-afca-6dd9100e9e76에서 /47b3c318-430a-42fc-89d4-9274eb78e3e5(으)로 업데이트합니다.
+F2 추가 (풋프린트 'mod:FUSE_3544-2').
+C5 추가 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C6 추가 (풋프린트 'Capacitor_SMD:CP_Elec_16x17.5').
+C21 심볼 관련성을 /4968be72-3c47-4551-939a-31e85730cd20에서 /9ead6d89-54dd-41cd-a81b-df24cd7feca6(으)로 업데이트합니다.
+C8 추가 (풋프린트 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+C9 추가 (풋프린트 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+C10 추가 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C11 추가 (풋프린트 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+C12 추가 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C13 추가 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C14 추가 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C15 추가 (풋프린트 'Capacitor_SMD:CP_Elec_16x17.5').
+C16 추가 (풋프린트 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+D1 추가 (풋프린트 'mod:TO507P1020X460X2000-2').
+C21 필드 업데이트.
+네트 Net-(IC1-CANH)을(를) 추가합니다.
+C21 핀 1을(를) GND에서 Net-(IC1-CANH)(으)로 재연결합니다.
+C21 핀 2을(를) VDC_sensor에서 GND1(으)로 재연결합니다.
+C22 추가 (풋프린트 'Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn').
+C23 추가 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C27 추가 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C28 추가 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C30 추가 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C31 추가 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C56 추가 (풋프린트 'Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder').
+C62 추가 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+C17 추가 (풋프린트 'Capacitor_SMD:CP_Elec_16x17.5').
+D3 추가 (풋프린트 'mod:DIOM5127X229N').
+D4 추가 (풋프린트 'mod:DIOM5127X229N').
+D5 추가 (풋프린트 'Diode_SMD:D_SMA_Handsoldering').
+D7 추가 (풋프린트 'mod:DIOM5127X229N').
+D8 추가 (풋프린트 'mod:TO507P1020X460X2000-2').
+D10 추가 (풋프린트 'Diode_SMD:D_SOD-323_HandSoldering').
+D11 추가 (풋프린트 'Diode_SMD:D_SOD-323_HandSoldering').
+D12 추가 (풋프린트 'Diode_SMD:D_SOD-323_HandSoldering').
+D13 추가 (풋프린트 'Diode_SMD:D_SMA_Handsoldering').
+D14 추가 (풋프린트 'Diode_SMD:D_SOD-323_HandSoldering').
+F1 추가 (풋프린트 'mod:FUSE_3544-2').
+H1에 'BOM에서 제외' 제작 속성을 추가합니다.
+R3 필드 업데이트.
+R3 풋프린트 필터를 ''로 업데이트합니다.
+R3 핀 2을(를) Net-(Q1-G)에서 GND(으)로 재연결합니다.
+R3 핀 1을(를) GND에서 Net-(Q1-G)(으)로 재연결합니다.
+R4 심볼 관련성을 /7795c8b2-f48a-4123-b584-c84500b0f060에서 /eb6d6226-8f54-4f38-bab4-3e80822db80b(으)로 업데이트합니다.
+R4 필드 업데이트.
+R4 풋프린트 필터를 ''로 업데이트합니다.
+R4 핀 1을(를) GND에서 Net-(Q2-G)(으)로 재연결합니다.
+R1 핀 2을(를) Net-(Q1-G)에서 Net-(Q3-E)(으)로 재연결합니다.
+F4 추가 (풋프린트 'Fuse:Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder').
+F5 추가 (풋프린트 'Fuse:Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder').
+FL1 추가 (풋프린트 'ACT45B1012PTL003').
+R3 심볼 관련성을 /f6fcb775-0da0-4303-aa39-ed5f9c12c074에서 /e4731355-022d-4462-a044-fec4ec7cb908(으)로 업데이트합니다.
+H2에 'BOM에서 제외' 제작 속성을 추가합니다.
+H3에 'BOM에서 제외' 제작 속성을 추가합니다.
+H4에 'BOM에서 제외' 제작 속성을 추가합니다.
+H5에 'BOM에서 제외' 제작 속성을 추가합니다.
+H6에 'BOM에서 제외' 제작 속성을 추가합니다.
+풋프린트 IC1을(를) 'inv24VLib:DIP-32'에서 'SOIC127P600X175-8N'(으)로 변경합니다.
+IC2 추가 (풋프린트 'SOIC127P600X175-8N').
+풋프린트 J1을(를) 'genCtrlPCB_Lib:MOLEX_0705530039'에서 'mod:SHDR4W97P0X254_1X4_1271X660X1143P'(으)로 변경합니다.
+풋프린트 J2을(를) 'Connector_Molex:Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical'에서 'mod:SHDR2W64P0X254_1X2_737X660X1181P'(으)로 변경합니다.
+Q3 필드 업데이트.
+J4 추가 (풋프린트 'TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-03_P10.00mm').
+Q7 핀 2을(를) Net-(D9-A)에서 Net-(D1-A)(으)로 재연결합니다.
+C18 추가 (풋프린트 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+C19 추가 (풋프린트 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+C20 추가 (풋프린트 'Capacitor_SMD:C_0805_2012Metric').
+값 C21을(를) 102에서 4.7p(으)로 변경합니다.
+C7 추가 (풋프린트 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+Q4 심볼 관련성을 /1f46dcd9-daff-4dda-b424-3133e7ea5e72에서 /bdcc8d65-bd7d-4218-a019-cb368551ec25(으)로 업데이트합니다.
+Q4 필드 업데이트.
+Q5 필드 업데이트.
+Q6 심볼 관련성을 /c17ff9d4-6485-4c2f-b6c2-f74db1bdf3ab에서 /899a9393-0fc9-418c-b04b-5a470c460680(으)로 업데이트합니다.
+Q6 필드 업데이트.
+Q7 필드 업데이트.
+심볼에 없는 Q7 풋프린트 필드 제거.
+J5 추가 (풋프린트 'TerminalBlock_Wuerth:Wuerth_REDCUBE-THR_WP-THRBU_74650073_THR').
+Q8 추가 (풋프린트 'mod:STGIB20M60TSL').
+R1 심볼 관련성을 /8cdcf821-016d-4b4e-b0c3-aa2a6684acd0에서 /28fc99b3-c972-4ead-80d1-df04840b310d(으)로 업데이트합니다.
+R1 필드 업데이트.
+R1 풋프린트 필터를 ''로 업데이트합니다.
+R1 핀 1을(를) Net-(Q3-E)에서 Net-(Q1-G)(으)로 재연결합니다.
+심볼에 없는 BX4 풋프린트 필드 제거.
+R2 심볼 관련성을 /9d364702-28e9-430a-b86d-7cc425fff7d4에서 /dedcaa82-1519-4426-94d8-8516415ad0a0(으)로 업데이트합니다.
+R2 필드 업데이트.
+R2 풋프린트 필터를 ''로 업데이트합니다.
+R2 핀 2을(를) Net-(Q2-G)에서 Net-(Q4-E)(으)로 재연결합니다.
+R2 핀 1을(를) Net-(Q4-E)에서 Net-(Q2-G)(으)로 재연결합니다.
+사용하지 않은 풋프린트 BC24을(를) 제거합니다.
+값 U2을(를) LM2576R-5.0에서 LM2576D2T-15G(으)로 변경합니다.
+U2 심볼 관련성을 /3fe376f6-eb8a-4d45-85aa-2c3aa56cdbf3에서 /43b44e58-4aad-4b95-9270-a6c76055cf97(으)로 업데이트합니다.
+U2 필드 업데이트.
+심볼에 없는 U2 풋프린트 필드 제거.
+U2 핀 4을(를) +5V에서 +15V(으)로 재연결합니다.
+풋프린트 U5을(를) 'Library:ewDCDC24_1505d'에서 'mod:PDIP4GW_709AH_ONS-M'(으)로 변경합니다.
+풋프린트 U15을(를) 'inv24VLib:PDIP4GW_709AH_ONS-M'에서 'mod:PDIP4GW_709AH_ONS-M'(으)로 변경합니다.
+Z1 필드 업데이트.
+심볼에 없는 Z1 풋프린트 필드 제거.
+Z2 추가 (풋프린트 'mod:DIOM5027X244N').
+Z3 추가 (풋프린트 'mod:DIOM5027X244N').
+사용하지 않은 풋프린트 R65을(를) 제거합니다.
+심볼에 없는 U1 풋프린트 필드 제거.
+사용하지 않은 풋프린트 R57을(를) 제거합니다.
+사용하지 않은 풋프린트 U14을(를) 제거합니다.
+사용하지 않은 풋프린트 BC30을(를) 제거합니다.
+사용하지 않은 풋프린트 U10을(를) 제거합니다.
+사용하지 않은 풋프린트 ZD2을(를) 제거합니다.
+사용하지 않은 풋프린트 BC21을(를) 제거합니다.
+사용하지 않은 풋프린트 R58을(를) 제거합니다.
+사용하지 않은 풋프린트 R64을(를) 제거합니다.
+사용하지 않은 풋프린트 ZD3을(를) 제거합니다.
+사용하지 않은 풋프린트 TP4을(를) 제거합니다.
+사용하지 않은 풋프린트 J7을(를) 제거합니다.
+사용하지 않은 풋프린트 L6을(를) 제거합니다.
+사용하지 않은 풋프린트 BC27을(를) 제거합니다.
+사용하지 않은 풋프린트 R62을(를) 제거합니다.
+사용하지 않은 풋프린트 BC28을(를) 제거합니다.
+사용하지 않은 풋프린트 U6을(를) 제거합니다.
+사용하지 않은 풋프린트 D9을(를) 제거합니다.
+SW1 필드 업데이트.
+사용하지 않은 풋프린트 R53을(를) 제거합니다.
+사용하지 않은 풋프린트 U13을(를) 제거합니다.
+사용하지 않은 풋프린트 R37을(를) 제거합니다.
+사용하지 않은 풋프린트 BC29을(를) 제거합니다.
+사용하지 않은 풋프린트 TP1을(를) 제거합니다.
+사용하지 않은 풋프린트 TP3을(를) 제거합니다.
+사용하지 않은 풋프린트 ZD1을(를) 제거합니다.
+사용하지 않은 풋프린트 BC22을(를) 제거합니다.
+사용하지 않은 풋프린트 BC20을(를) 제거합니다.
+사용하지 않은 풋프린트 J10을(를) 제거합니다.
+사용하지 않은 풋프린트 U11을(를) 제거합니다.
+사용하지 않은 풋프린트 C44을(를) 제거합니다.
+사용하지 않은 풋프린트 R39을(를) 제거합니다.
+사용하지 않은 풋프린트 R50을(를) 제거합니다.
+사용하지 않은 풋프린트 U12을(를) 제거합니다.
+사용하지 않은 풋프린트 PC1을(를) 제거합니다.
+심볼에 없는 SW1 풋프린트 필드 제거.
+TR1 필드 업데이트.
+U1 필드 업데이트.
+R6 심볼 관련성을 /cd8b2407-3c0a-4a55-bc06-5d48055103d9에서 /5631cf82-de91-4b0c-a889-065e83b81d1d(으)로 업데이트합니다.
+풋프린트 R22을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'(으)로 변경합니다.
+R17 필드 업데이트.
+R18 핀 1을(를) Net-(U8-INP)에서 Net-(R18-Pad1)(으)로 재연결합니다.
+R5 심볼 관련성을 /9a3f9fb8-e11f-47d7-9dbc-f89af0b8a95a에서 /2af1903c-5305-48b7-ac88-44baefefd87a(으)로 업데이트합니다.
+R5 필드 업데이트.
+풋프린트 R32을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'(으)로 변경합니다.
+R5 풋프린트 필터를 ''로 업데이트합니다.
+R5 핀 2을(를) Net-(Q3-B)에서 PWM_A(으)로 재연결합니다.
+풋프린트 R24을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'(으)로 변경합니다.
+R5 핀 1을(를) PWM_A에서 Net-(Q3-B)(으)로 재연결합니다.
+R18 핀 2을(를) Net-(R17-Pad1)에서 Net-(R17-Pad2)(으)로 재연결합니다.
+네트 Net-(R18-Pad1)을(를) 추가합니다.
+풋프린트 R16을(를) 'Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'에서 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'(으)로 변경합니다.
+풋프린트 R9을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder'(으)로 변경합니다.
+R6 풋프린트 필터를 ''로 업데이트합니다.
+풋프린트 R8을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder'(으)로 변경합니다.
+풋프린트 R30을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'(으)로 변경합니다.
+풋프린트 R7을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder'(으)로 변경합니다.
+값 R42을(를) 1K에서 10K(으)로 변경합니다.
+R6 필드 업데이트.
+풋프린트 R31을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'(으)로 변경합니다.
+네트 Net-(R17-Pad2)을(를) 추가합니다.
+R6 핀 2을(를) Net-(Q4-B)에서 PWM_B(으)로 재연결합니다.
+R6 핀 1을(를) PWM_B에서 Net-(Q4-B)(으)로 재연결합니다.
+풋프린트 R13을(를) 'Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'에서 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'(으)로 변경합니다.
+사용하지 않은 풋프린트 BC26을(를) 제거합니다.
+사용하지 않은 풋프린트 BC25을(를) 제거합니다.
+풋프린트 R25을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'(으)로 변경합니다.
+R18 풋프린트 필터를 ''로 업데이트합니다.
+R17 풋프린트 필터를 ''로 업데이트합니다.
+풋프린트 R10을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'(으)로 변경합니다.
+풋프린트 R29을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'(으)로 변경합니다.
+R18 필드 업데이트.
+풋프린트 R11을(를) 'Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'에서 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'(으)로 변경합니다.
+풋프린트 R20을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'(으)로 변경합니다.
+풋프린트 R23을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'(으)로 변경합니다.
+R18 심볼 관련성을 /0b017add-3ab7-4ed9-8ec4-b755a16361f4에서 /6a47b0d9-7af6-4122-9da6-a091abb5b748(으)로 업데이트합니다.
+BC11 핀 2을(를) Net-(IC1-VS(U))에서 GND(으)로 재연결합니다.
+풋프린트 R19을(를) 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'에서 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'(으)로 변경합니다.
+풋프린트 R14을(를) 'Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'에서 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'(으)로 변경합니다.
+풋프린트 R28을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'(으)로 변경합니다.
+풋프린트 R21을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'(으)로 변경합니다.
+풋프린트 R26을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'(으)로 변경합니다.
+값 R18을(를) 1M/2W에서 500K/3216(으)로 변경합니다.
+R17 심볼 관련성을 /532938f3-5858-4e15-90ed-b17d6fa39c33에서 /cea7112b-0ccf-4d8c-83d1-78e7e0bea9fb(으)로 업데이트합니다.
+풋프린트 R15을(를) 'Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'에서 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'(으)로 변경합니다.
+R17 핀 2을(를) VBUS에서 Net-(R17-Pad2)(으)로 재연결합니다.
+풋프린트 R27을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'(으)로 변경합니다.
+값 R17을(를) 1M/2W에서 500K/3216(으)로 변경합니다.
+값 R48을(를) 60에서 470(으)로 변경합니다.
+심볼에 없는 BC17 풋프린트 필드 제거.
+BC17 핀 1을(를) VTH_IPM에서 DIN_B(으)로 재연결합니다.
+BC14 핀 1을(를) +15V에서 +24V(으)로 재연결합니다.
+R44 핀 2을(를) FAULT_IPM에서 DIN_B(으)로 재연결합니다.
+값 R45을(를) 220에서 100(으)로 변경합니다.
+R45 심볼 관련성을 /b6487505-dd32-48a5-b8ea-32420e5c9c64에서 /7e3bf6a1-955b-4673-8ae8-40ed35ae2f91(으)로 업데이트합니다.
+R45 필드 업데이트.
+R45 풋프린트 필터를 ''로 업데이트합니다.
+R45 핀 1을(를) Net-(PC2-Pad1)에서 IN_UL(으)로 재연결합니다.
+R45 핀 2을(를) +5P에서 PWM0_L(으)로 재연결합니다.
+풋프린트 R46을(를) 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'에서 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'(으)로 변경합니다.
+풋프린트 R47을(를) 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'에서 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'(으)로 변경합니다.
+BC17 필드 업데이트.
+R48 심볼 관련성을 /e2aebe63-d5a1-4276-98a6-ef634c8ff13e에서 /daed07b1-ce6d-49c2-947d-fd8ba21b3e8f(으)로 업데이트합니다.
+R48 필드 업데이트.
+R48 풋프린트 필터를 ''로 업데이트합니다.
+R48 핀 2을(를) Net-(ZD1-K)에서 Net-(R40-Pad1)(으)로 재연결합니다.
+풋프린트 R33을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'(으)로 변경합니다.
+R48 핀 1을(를) Net-(BC20-Pad1)에서 Net-(J2-Pad2)(으)로 재연결합니다.
+값 R49을(를) 60에서 470(으)로 변경합니다.
+R49 심볼 관련성을 /ff24953b-cd30-49b8-94db-b190123d6ff1에서 /6f897b10-d488-4b1f-9874-b0f5572b9d10(으)로 업데이트합니다.
+R49 필드 업데이트.
+R49 풋프린트 필터를 ''로 업데이트합니다.
+R49 핀 2을(를) Net-(ZD3-K)에서 Net-(R42-Pad1)(으)로 재연결합니다.
+BC17 핀 2을(를) Net-(BC17-Pad2)에서 GND(으)로 재연결합니다.
+BC11 핀 1을(를) Net-(D5-K)에서 +24V(으)로 재연결합니다.
+BC12 심볼 관련성을 /49fbe10c-97f3-4799-8405-c1e356b6e5b7에서 /338d63e4-84e9-4ec7-97ff-268f6f25dd81(으)로 업데이트합니다.
+BC12 필드 업데이트.
+심볼에 없는 BC12 풋프린트 필드 제거.
+BC13 심볼 관련성을 /0357e403-9402-4590-a843-7ef3380b30b8에서 /8d3c556d-7226-4b29-8797-8abf56a69e7a(으)로 업데이트합니다.
+BC13 필드 업데이트.
+심볼에 없는 BC13 풋프린트 필드 제거.
+BC13 핀 2을(를) GND2에서 GND(으)로 재연결합니다.
+BC13 핀 1을(를) +5VP에서 +24V(으)로 재연결합니다.
+BC14 심볼 관련성을 /163c8ccf-9a7b-4ae8-b7fb-534e7c175825에서 /72b65fd7-8b18-460b-9352-903cac83df8e(으)로 업데이트합니다.
+BC14 필드 업데이트.
+심볼에 없는 BC14 풋프린트 필드 제거.
+사용하지 않은 풋프린트 R63을(를) 제거합니다.
+BC14 핀 2을(를) GND2에서 GND(으)로 재연결합니다.
+BC15 심볼 관련성을 /d7164caa-1930-460e-b309-2ca7996b9fcd에서 /1f0762ab-7cec-4ed9-b34e-42a645c3875c(으)로 업데이트합니다.
+BC15 필드 업데이트.
+심볼에 없는 BC15 풋프린트 필드 제거.
+BC15 핀 1을(를) +3.3V에서 +5P(으)로 재연결합니다.
+BC15 핀 2을(를) GND에서 GND1(으)로 재연결합니다.
+BC16 심볼 관련성을 /d2dec987-bc70-4f28-8140-1e12da9aa6c6에서 /8b37a11b-0aa7-48a5-84a9-4c2550eb22c2(으)로 업데이트합니다.
+BC16 필드 업데이트.
+심볼에 없는 BC16 풋프린트 필드 제거.
+BC16 핀 1을(를) +5V에서 +3.3V(으)로 재연결합니다.
+BC17 심볼 관련성을 /5230361e-a13d-4109-93e0-3b1bad23fd24에서 /47ceb019-861d-4b6f-b94f-64af41114bf3(으)로 업데이트합니다.
+R44 심볼 관련성을 /487446bb-ae12-46fd-ba36-5c888a87d61a에서 /aadc772b-2459-4323-8c4a-e0cf39011137(으)로 업데이트합니다.
+R42 심볼 관련성을 /f5f9a395-76d9-4819-8b9e-1c6440e37b55에서 /a91f6535-1fce-42af-95e1-65dc0ad9ff65(으)로 업데이트합니다.
+R42 필드 업데이트.
+R42 풋프린트 필터를 ''로 업데이트합니다.
+R42 핀 2을(를) RX_CAN에서 GND1(으)로 재연결합니다.
+네트 Net-(R42-Pad1)을(를) 추가합니다.
+값 R43을(를) 120에서 10K(으)로 변경합니다.
+R43 심볼 관련성을 /06e733fd-9e5a-4d3b-8b9e-9a4188316053에서 /b440254b-1ad6-422a-b281-c2301e190cc8(으)로 업데이트합니다.
+R43 필드 업데이트.
+R43 풋프린트 필터를 ''로 업데이트합니다.
+R43 핀 1을(를) Net-(PC1-Pad1)에서 +3.3V(으)로 재연결합니다.
+R43 핀 2을(를) +3.3V에서 DIN_A(으)로 재연결합니다.
+값 R44을(를) 4.7K에서 10K(으)로 변경합니다.
+R49 핀 1을(를) Net-(BC20-Pad1)에서 Net-(J3-Pad2)(으)로 재연결합니다.
+R44 필드 업데이트.
+풋프린트 L5을(를) 'Inductor_SMD:L_12x12mm_H8mm'에서 'mod:INDPM120120X600N'(으)로 변경합니다.
+사용하지 않은 풋프린트 U8을(를) 제거합니다.
+사용하지 않은 풋프린트 C29을(를) 제거합니다.
+사용하지 않은 풋프린트 U9을(를) 제거합니다.
+사용하지 않은 풋프린트 R36을(를) 제거합니다.
+사용하지 않은 풋프린트 R61을(를) 제거합니다.
+사용하지 않은 풋프린트 PC2을(를) 제거합니다.
+사용하지 않은 풋프린트 R60을(를) 제거합니다.
+사용하지 않은 풋프린트 TP2을(를) 제거합니다.
+사용하지 않은 풋프린트 U7을(를) 제거합니다.
+풋프린트 R41을(를) 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'에서 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'(으)로 변경합니다.
+네트 Net-(J3-Pad2)을(를) 추가합니다.
+R51 추가 (풋프린트 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+RT1 필드 업데이트.
+심볼에 없는 RT1 풋프린트 필드 제거.
+RT1 핀 2을(를) Net-(BC28-Pad1)에서 Net-(D1-A)(으)로 재연결합니다.
+풋프린트 RV1을(를) 'inv24VLib:VAR_ERZ-VF2M560'에서 'mod:VAR_ERZ-VF2M560'(으)로 변경합니다.
+풋프린트 RV2을(를) 'inv24VLib:VAR_ERZ-VF2M560'에서 'mod:VAR_ERZ-VF2M560'(으)로 변경합니다.
+풋프린트 RV3을(를) 'inv24VLib:VAR_ERZ-VF2M560'에서 'mod:VAR_ERZ-VF2M560'(으)로 변경합니다.
+네트 Net-(J2-Pad2)을(를) 추가합니다.
+풋프린트 R34을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'(으)로 변경합니다.
+풋프린트 R35을(를) 'Resistor_SMD:R_0805_2012Metric'에서 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'(으)로 변경합니다.
+R38 심볼 관련성을 /12d15fa4-4203-4b69-beb3-894120808376에서 /ee73bfa2-f53b-4079-8cab-7c6357329958(으)로 업데이트합니다.
+R38 필드 업데이트.
+R38 풋프린트 필터를 ''로 업데이트합니다.
+R38 핀 1을(를) Net-(R38-Pad1)에서 VDC_IN(으)로 재연결합니다.
+네트 Net-(R34-Pad1)을(를) 추가합니다.
+R38 핀 2을(를) VDC_IN에서 Net-(R34-Pad1)(으)로 재연결합니다.
+R40 심볼 관련성을 /79d78df6-c112-4a8e-b834-9824ce2d86df에서 /95519874-b083-404b-b592-8b6c494be5bb(으)로 업데이트합니다.
+R40 필드 업데이트.
+R40 풋프린트 필터를 ''로 업데이트합니다.
+네트 Net-(R40-Pad1)을(를) 추가합니다.
+R40 핀 1을(를) GND에서 Net-(R40-Pad1)(으)로 재연결합니다.
+R40 핀 2을(를) TEMPERATURE_IPM에서 GND1(으)로 재연결합니다.
+R44 풋프린트 필터를 ''로 업데이트합니다.
+오류: U4을(를) 업데이트할 수 없습니다 (풋프린트 'genCtrlPCB_Lib:VREG_TPS79625KTTR'을(를) 찾을 수 없음).
+오류: R12을(를) 업데이트할 수 없습니다 (풋프린트 'mod:RESC2012X65N'을(를) 찾을 수 없음).
+오류: U3을(를) 업데이트할 수 없습니다 (풋프린트 'genCtrlPCB_Lib:VREG_TPS79625KTTR'을(를) 찾을 수 없음).
 
 
-Info: Total warnings: 0, errors: 1.
+정보: 총 경고: 0개, 오류: 3개.
