@@ -12927,12 +12927,6 @@
 		(uuid "3a081340-ee43-4acc-a919-cd6559dc3887")
 	)
 	(junction
-		(at 217.17 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3d3f692e-8d6e-4bf1-a361-4249d27a8aad")
-	)
-	(junction
 		(at 49.53 233.68)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13113,6 +13107,12 @@
 		(uuid "7353ec45-b576-4b00-9f5e-26484a51f0e6")
 	)
 	(junction
+		(at 237.49 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7556b2de-6d4b-4596-86ec-3b268cf0f6a7")
+	)
+	(junction
 		(at 92.71 231.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13227,12 +13227,6 @@
 		(uuid "9bfde798-6c54-412a-af62-7d0ed8cfcc4f")
 	)
 	(junction
-		(at 214.63 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a1786bfb-bb40-4ad8-86dd-7c95acf15ca3")
-	)
-	(junction
 		(at 377.19 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13291,6 +13285,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "abac205f-6bcb-48f2-99cf-4339a6f323b3")
+	)
+	(junction
+		(at 234.95 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ac4dc888-d7b4-4d0a-89a2-5682e1c500b3")
 	)
 	(junction
 		(at 132.08 251.46)
@@ -13383,7 +13383,7 @@
 		(uuid "bf146c02-1479-4964-b172-6607e1979959")
 	)
 	(junction
-		(at 186.69 86.36)
+		(at 207.01 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c0d81317-f8b7-4cda-aa5e-ea09084fdd4a")
@@ -13886,7 +13886,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 86.36) (xy 186.69 93.98)
+			(xy 207.01 80.01) (xy 207.01 95.25)
 		)
 		(stroke
 			(width 0)
@@ -13916,7 +13916,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 50.8) (xy 196.85 50.8)
+			(xy 189.23 50.8) (xy 194.31 50.8)
 		)
 		(stroke
 			(width 0)
@@ -14063,6 +14063,16 @@
 			(type default)
 		)
 		(uuid "0c0c4ae6-c2d3-48a7-be10-0536cb5d871f")
+	)
+	(wire
+		(pts
+			(xy 173.99 105.41) (xy 173.99 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d881470-29e5-4594-8962-4065a1122dd7")
 	)
 	(wire
 		(pts
@@ -14216,7 +14226,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 83.82) (xy 214.63 83.82)
+			(xy 231.14 85.09) (xy 234.95 85.09)
 		)
 		(stroke
 			(width 0)
@@ -14326,7 +14336,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 86.36) (xy 186.69 86.36)
+			(xy 201.93 80.01) (xy 207.01 80.01)
 		)
 		(stroke
 			(width 0)
@@ -14426,7 +14436,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 83.82) (xy 200.66 83.82)
+			(xy 218.44 85.09) (xy 220.98 85.09)
 		)
 		(stroke
 			(width 0)
@@ -14456,16 +14466,6 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 83.82) (xy 214.63 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c403da2-b340-4805-b252-3d1ae502faa7")
-	)
-	(wire
-		(pts
 			(xy 134.62 55.88) (xy 143.51 55.88)
 		)
 		(stroke
@@ -14473,16 +14473,6 @@
 			(type default)
 		)
 		(uuid "1d233bcd-63d3-4a6c-aa81-d9720fe4a2fb")
-	)
-	(wire
-		(pts
-			(xy 175.26 106.68) (xy 175.26 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ed02302-83b4-408b-ba0a-f106379a8c53")
 	)
 	(wire
 		(pts
@@ -15216,7 +15206,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 88.9) (xy 214.63 88.9)
+			(xy 231.14 90.17) (xy 234.95 90.17)
 		)
 		(stroke
 			(width 0)
@@ -15326,7 +15316,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 104.14) (xy 175.26 106.68)
+			(xy 175.26 105.41) (xy 175.26 106.68)
 		)
 		(stroke
 			(width 0)
@@ -15336,7 +15326,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 71.12) (xy 198.12 73.66)
+			(xy 218.44 73.66) (xy 218.44 74.93)
 		)
 		(stroke
 			(width 0)
@@ -15353,16 +15343,6 @@
 			(type default)
 		)
 		(uuid "3f7e864a-9440-4812-a747-263d68a134c3")
-	)
-	(wire
-		(pts
-			(xy 186.69 86.36) (xy 186.69 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3fb9dca3-0182-4dda-a98f-389f73bbb4dc")
 	)
 	(wire
 		(pts
@@ -15806,7 +15786,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 73.66) (xy 226.06 81.28)
+			(xy 255.27 74.93) (xy 255.27 82.55)
 		)
 		(stroke
 			(width 0)
@@ -15846,7 +15826,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 26.67) (xy 218.44 29.21)
+			(xy 218.44 27.94) (xy 218.44 29.21)
 		)
 		(stroke
 			(width 0)
@@ -15896,7 +15876,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 86.36) (xy 214.63 88.9)
+			(xy 234.95 85.09) (xy 234.95 87.63)
 		)
 		(stroke
 			(width 0)
@@ -15913,6 +15893,16 @@
 			(type default)
 		)
 		(uuid "53753ab3-a3c0-49db-977f-d69707a7b922")
+	)
+	(wire
+		(pts
+			(xy 234.95 87.63) (xy 234.95 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53ea08ac-7cf1-4b27-b5e1-9570620eac52")
 	)
 	(wire
 		(pts
@@ -16076,7 +16066,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 91.44) (xy 226.06 100.33)
+			(xy 255.27 92.71) (xy 255.27 102.87)
 		)
 		(stroke
 			(width 0)
@@ -16173,6 +16163,16 @@
 			(type default)
 		)
 		(uuid "5d674de4-9853-4e60-95b5-cc0658c6807b")
+	)
+	(wire
+		(pts
+			(xy 237.49 87.63) (xy 237.49 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d95fddb-0f6b-49da-a113-84bceca8be42")
 	)
 	(wire
 		(pts
@@ -16356,7 +16356,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 104.14) (xy 170.18 104.14)
+			(xy 175.26 105.41) (xy 173.99 105.41)
 		)
 		(stroke
 			(width 0)
@@ -16433,16 +16433,6 @@
 			(type default)
 		)
 		(uuid "67755e47-b45a-48e8-b28b-0b955802f8a7")
-	)
-	(wire
-		(pts
-			(xy 267.97 73.66) (xy 267.97 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6779463c-b28c-431e-8686-39a8289e2d94")
 	)
 	(wire
 		(pts
@@ -16526,7 +16516,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 99.06) (xy 217.17 100.33)
+			(xy 237.49 99.06) (xy 237.49 104.14)
 		)
 		(stroke
 			(width 0)
@@ -16966,16 +16956,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 86.36) (xy 217.17 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "79fa289e-0315-45ed-930c-0736ed5e5ae8")
-	)
-	(wire
-		(pts
 			(xy 107.95 40.64) (xy 107.95 43.18)
 		)
 		(stroke
@@ -16996,7 +16976,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 86.36) (xy 173.99 86.36)
+			(xy 189.23 80.01) (xy 194.31 80.01)
 		)
 		(stroke
 			(width 0)
@@ -17416,7 +17396,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 73.66) (xy 267.97 73.66)
+			(xy 255.27 74.93) (xy 270.51 74.93)
 		)
 		(stroke
 			(width 0)
@@ -17536,7 +17516,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 99.06) (xy 198.12 101.6)
+			(xy 218.44 100.33) (xy 218.44 102.87)
 		)
 		(stroke
 			(width 0)
@@ -17816,7 +17796,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 93.98) (xy 190.5 93.98)
+			(xy 207.01 95.25) (xy 210.82 95.25)
 		)
 		(stroke
 			(width 0)
@@ -17883,6 +17863,16 @@
 			(type default)
 		)
 		(uuid "9a06a385-36ec-4568-982d-b57c1b71e448")
+	)
+	(wire
+		(pts
+			(xy 175.26 106.68) (xy 175.26 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a3489bf-5680-4aab-8b79-37af93216369")
 	)
 	(wire
 		(pts
@@ -18146,7 +18136,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 86.36) (xy 218.44 86.36)
+			(xy 237.49 87.63) (xy 247.65 87.63)
 		)
 		(stroke
 			(width 0)
@@ -18446,7 +18436,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 50.8) (xy 207.01 50.8)
+			(xy 201.93 50.8) (xy 207.01 50.8)
 		)
 		(stroke
 			(width 0)
@@ -18536,7 +18526,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 88.9) (xy 200.66 88.9)
+			(xy 218.44 90.17) (xy 220.98 90.17)
 		)
 		(stroke
 			(width 0)
@@ -19016,7 +19006,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 55.88) (xy 237.49 58.42)
+			(xy 237.49 55.88) (xy 237.49 57.15)
 		)
 		(stroke
 			(width 0)
@@ -19136,7 +19126,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 86.36) (xy 217.17 86.36)
+			(xy 234.95 87.63) (xy 237.49 87.63)
 		)
 		(stroke
 			(width 0)
@@ -19786,7 +19776,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 78.74) (xy 190.5 78.74)
+			(xy 207.01 80.01) (xy 210.82 80.01)
 		)
 		(stroke
 			(width 0)
@@ -19903,16 +19893,6 @@
 			(type default)
 		)
 		(uuid "e91bccee-8e7e-456e-8768-992939dc2a8a")
-	)
-	(wire
-		(pts
-			(xy 267.97 74.93) (xy 270.51 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e94b998d-fd05-4a44-abe2-44b291bc41ea")
 	)
 	(wire
 		(pts
@@ -20186,6 +20166,16 @@
 	)
 	(wire
 		(pts
+			(xy 173.99 104.14) (xy 170.18 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6264e28-3fbe-4dc4-920f-891d2aee0618")
+	)
+	(wire
+		(pts
 			(xy 388.62 100.33) (xy 388.62 105.41)
 		)
 		(stroke
@@ -20256,7 +20246,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 48.26) (xy 246.38 58.42)
+			(xy 246.38 48.26) (xy 246.38 57.15)
 		)
 		(stroke
 			(width 0)
@@ -21264,7 +21254,7 @@
 	)
 	(global_label "PWM_B"
 		(shape input)
-		(at 168.91 86.36 180)
+		(at 189.23 80.01 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21274,7 +21264,7 @@
 		)
 		(uuid "86625290-3d83-4391-995a-8a2469df8ca4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.5144 86.36 0)
+			(at 179.8344 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21484,7 +21474,7 @@
 	)
 	(global_label "PWM_A"
 		(shape input)
-		(at 191.77 50.8 180)
+		(at 189.23 50.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21494,7 +21484,7 @@
 		)
 		(uuid "b1d5b06f-ef17-4b9e-909b-e77084c3ac52")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 182.5558 50.8 0)
+			(at 180.0158 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25590,7 +25580,7 @@
 		(dnp no)
 		(uuid "28fc99b3-c972-4ead-80d1-df04840b310d")
 		(property "Reference" "R1"
-			(at 224.79 36.83 0)
+			(at 230.378 37.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25925,7 +25915,7 @@
 	(symbol
 		(lib_name "RC2012F_SQR_2")
 		(lib_id "RC2012F100CS:RC2012F_SQR")
-		(at 200.66 50.8 180)
+		(at 198.12 50.8 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25933,7 +25923,7 @@
 		(dnp no)
 		(uuid "2af1903c-5305-48b7-ac88-44baefefd87a")
 		(property "Reference" "R5"
-			(at 203.454 49.784 0)
+			(at 200.914 49.784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25942,7 +25932,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 198.628 50.8 0)
+			(at 196.342 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25951,7 +25941,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 200.66 52.324 0)
+			(at 198.12 52.324 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25961,7 +25951,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.kr/ProductDetail/Samsung-Electro-Mechanics/RC2012J105CS?qs=%252Bww9O3qizfGeFGjlxfx3tg%3D%3D"
-			(at 200.66 50.8 0)
+			(at 198.12 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25970,7 +25960,7 @@
 			)
 		)
 		(property "Description" "후막 저항기 - SMD Resistor, 0805, 100ohm, 1/8W, +/-100ppm, +/-5%"
-			(at 200.66 50.8 0)
+			(at 198.12 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25979,7 +25969,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC2012J101CS"
-			(at 200.66 50.8 0)
+			(at 198.12 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25988,7 +25978,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Samsung Electro-Mechanics"
-			(at 200.66 50.8 0)
+			(at 198.12 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25997,7 +25987,7 @@
 			)
 		)
 		(property "Mouser Part Number" "Nop"
-			(at 200.66 50.8 0)
+			(at 198.12 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26006,7 +25996,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.kr/ProductDetail/Samsung-Electro-Mechanics/RC2012J105CS?qs=%252Bww9O3qizfGeFGjlxfx3tg%3D%3D"
-			(at 200.66 50.8 0)
+			(at 198.12 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26015,7 +26005,7 @@
 			)
 		)
 		(property "Cost" "100"
-			(at 200.66 50.8 0)
+			(at 198.12 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26105,16 +26095,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 246.38 58.42 0)
+		(at 246.38 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2e8069ce-e2de-4150-8d79-8d2996f4a661")
 		(property "Reference" "#PWR02"
-			(at 246.38 64.77 0)
+			(at 246.38 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26123,7 +26112,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 246.38 63.5 0)
+			(at 249.936 56.896 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26131,7 +26120,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 246.38 58.42 0)
+			(at 246.38 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26140,7 +26129,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 246.38 58.42 0)
+			(at 246.38 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26149,7 +26138,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 246.38 58.42 0)
+			(at 246.38 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27088,16 +27077,15 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 198.12 71.12 0)
+		(at 218.44 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "382bf449-5bef-492b-b457-37bc69671a3b")
 		(property "Reference" "#PWR09"
-			(at 198.12 74.93 0)
+			(at 218.44 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27106,7 +27094,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 198.12 66.04 0)
+			(at 214.63 71.882 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27114,7 +27102,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 198.12 71.12 0)
+			(at 218.44 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27123,7 +27111,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 71.12 0)
+			(at 218.44 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27132,7 +27120,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 198.12 71.12 0)
+			(at 218.44 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28335,16 +28323,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 226.06 100.33 0)
+		(at 255.27 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "448132dd-195a-490c-8573-78c98e8a22fe")
 		(property "Reference" "#PWR03"
-			(at 226.06 106.68 0)
+			(at 255.27 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28353,7 +28340,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 226.06 105.41 0)
+			(at 251.968 103.124 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28361,7 +28348,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 226.06 100.33 0)
+			(at 255.27 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28370,7 +28357,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 100.33 0)
+			(at 255.27 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28379,7 +28366,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 226.06 100.33 0)
+			(at 255.27 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29713,7 +29700,7 @@
 	(symbol
 		(lib_name "RC2012F_SQR_2")
 		(lib_id "RC2012F100CS:RC2012F_SQR")
-		(at 177.8 86.36 180)
+		(at 198.12 80.01 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29721,7 +29708,7 @@
 		(dnp no)
 		(uuid "5631cf82-de91-4b0c-a889-065e83b81d1d")
 		(property "Reference" "R6"
-			(at 180.594 85.344 0)
+			(at 200.914 78.994 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29730,7 +29717,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 175.768 86.36 0)
+			(at 196.088 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29739,7 +29726,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 177.8 87.884 0)
+			(at 198.12 81.534 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29749,7 +29736,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.kr/ProductDetail/Samsung-Electro-Mechanics/RC2012J105CS?qs=%252Bww9O3qizfGeFGjlxfx3tg%3D%3D"
-			(at 177.8 86.36 0)
+			(at 198.12 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29758,7 +29745,7 @@
 			)
 		)
 		(property "Description" "후막 저항기 - SMD Resistor, 0805, 100ohm, 1/8W, +/-100ppm, +/-5%"
-			(at 177.8 86.36 0)
+			(at 198.12 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29767,7 +29754,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC2012J101CS"
-			(at 177.8 86.36 0)
+			(at 198.12 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29776,7 +29763,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Samsung Electro-Mechanics"
-			(at 177.8 86.36 0)
+			(at 198.12 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29785,7 +29772,7 @@
 			)
 		)
 		(property "Mouser Part Number" "Nop"
-			(at 177.8 86.36 0)
+			(at 198.12 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29794,7 +29781,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.kr/ProductDetail/Samsung-Electro-Mechanics/RC2012J105CS?qs=%252Bww9O3qizfGeFGjlxfx3tg%3D%3D"
-			(at 177.8 86.36 0)
+			(at 198.12 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29803,7 +29790,7 @@
 			)
 		)
 		(property "Cost" "100"
-			(at 177.8 86.36 0)
+			(at 198.12 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30422,16 +30409,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 237.49 58.42 0)
+		(at 237.49 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5d7598c4-3cc0-47df-b3c1-c05890d7d316")
 		(property "Reference" "#PWR06"
-			(at 237.49 64.77 0)
+			(at 237.49 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30440,7 +30426,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 237.49 63.5 0)
+			(at 240.792 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30448,7 +30434,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 237.49 58.42 0)
+			(at 237.49 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30457,7 +30443,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 237.49 58.42 0)
+			(at 237.49 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30466,7 +30452,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 237.49 58.42 0)
+			(at 237.49 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31924,7 +31910,7 @@
 		(dnp no)
 		(uuid "70e91f99-0609-4ed7-b8a7-d6cd1084376c")
 		(property "Reference" "R25"
-			(at 224.536 43.18 0)
+			(at 229.87 47.498 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32719,16 +32705,15 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 218.44 26.67 0)
+		(at 218.44 27.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "780db7ef-317a-4e6f-aea9-f2f25792b2a5")
 		(property "Reference" "#PWR08"
-			(at 218.44 30.48 0)
+			(at 218.44 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32737,7 +32722,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 218.44 21.59 0)
+			(at 214.122 26.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32745,7 +32730,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 218.44 26.67 0)
+			(at 218.44 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32754,7 +32739,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 218.44 26.67 0)
+			(at 218.44 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32763,7 +32748,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 218.44 26.67 0)
+			(at 218.44 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33471,7 +33456,7 @@
 	(symbol
 		(lib_name "RC2012F_SQR_1")
 		(lib_id "RC2012F100CS:RC2012F_SQR")
-		(at 205.74 88.9 180)
+		(at 226.06 90.17 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33479,7 +33464,7 @@
 		(dnp no)
 		(uuid "7fb1ae06-e2d3-4674-85fe-0ffc7441284b")
 		(property "Reference" "R24"
-			(at 204.216 86.36 0)
+			(at 229.362 91.948 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33488,7 +33473,7 @@
 			)
 		)
 		(property "Value" "10"
-			(at 203.708 88.9 0)
+			(at 224.028 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33497,7 +33482,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 205.74 90.424 0)
+			(at 226.06 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33507,7 +33492,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.kr/ProductDetail/Samsung-Electro-Mechanics/RC2012J105CS?qs=%252Bww9O3qizfGeFGjlxfx3tg%3D%3D"
-			(at 205.74 88.9 0)
+			(at 226.06 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33516,7 +33501,7 @@
 			)
 		)
 		(property "Description" "후막 저항기 - SMD Resistor, 0805, 10ohm, 1/8W, +/-100ppm, +/-5%"
-			(at 205.74 88.9 0)
+			(at 226.06 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33525,7 +33510,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC2012J100CS"
-			(at 205.74 88.9 0)
+			(at 226.06 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33534,7 +33519,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Samsung Electro-Mechanics"
-			(at 205.74 88.9 0)
+			(at 226.06 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33543,7 +33528,7 @@
 			)
 		)
 		(property "Mouser Part Number" "Nop"
-			(at 205.74 88.9 0)
+			(at 226.06 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33552,7 +33537,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.kr/ProductDetail/Samsung-Electro-Mechanics/RC2012J105CS?qs=%252Bww9O3qizfGeFGjlxfx3tg%3D%3D"
-			(at 205.74 88.9 0)
+			(at 226.06 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33561,7 +33546,7 @@
 			)
 		)
 		(property "Cost" "100"
-			(at 205.74 88.9 0)
+			(at 226.06 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33914,7 +33899,7 @@
 			)
 		)
 		(property "Value" "ZXTP2012ZTA"
-			(at 220.98 49.53 0)
+			(at 201.93 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34129,16 +34114,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 217.17 100.33 0)
+		(at 237.49 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "85b8504f-2f8d-47bf-bc35-1b05c61e6018")
 		(property "Reference" "#PWR07"
-			(at 217.17 106.68 0)
+			(at 237.49 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34147,7 +34131,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 217.17 105.41 0)
+			(at 235.204 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34155,7 +34139,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 100.33 0)
+			(at 237.49 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34164,7 +34148,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 100.33 0)
+			(at 237.49 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34173,7 +34157,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 217.17 100.33 0)
+			(at 237.49 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34266,7 +34250,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "87ebe8d2-730a-467f-b3b8-34045d5de469")
 		(property "Reference" "#PWR04"
 			(at 218.44 63.5 0)
@@ -34278,7 +34261,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 218.44 62.23 0)
+			(at 223.266 58.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34391,7 +34374,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BCP51")
-		(at 195.58 93.98 0)
+		(at 215.9 95.25 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -34400,7 +34383,7 @@
 		(dnp no)
 		(uuid "899a9393-0fc9-418c-b04b-5a470c460680")
 		(property "Reference" "Q6"
-			(at 200.66 95.25 0)
+			(at 220.98 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34409,7 +34392,7 @@
 			)
 		)
 		(property "Value" "ZXTP2012ZTA"
-			(at 200.66 92.71 0)
+			(at 200.406 97.282 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34418,7 +34401,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-89-3"
-			(at 200.66 92.075 0)
+			(at 220.98 93.345 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34429,7 +34412,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BCP51-D.pdf"
-			(at 195.58 93.98 0)
+			(at 215.9 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34439,7 +34422,7 @@
 			)
 		)
 		(property "Description" " 양극성 트랜지스터 - BJT 60V PNP Low Sat"
-			(at 195.58 93.98 0)
+			(at 215.9 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34448,7 +34431,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "ZXTP2012ZTA"
-			(at 195.58 93.98 0)
+			(at 215.9 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34457,7 +34440,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Diodes Incorporated"
-			(at 195.58 93.98 0)
+			(at 215.9 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34466,7 +34449,7 @@
 			)
 		)
 		(property "Mouser Part Number" "522-ZXTP2012ZTA"
-			(at 195.58 93.98 0)
+			(at 215.9 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34475,7 +34458,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.kr/ProductDetail/Diodes-Incorporated/ZXTP2012ZTA?qs=MWeP2YY0TjxEIGXHKbYI7w%3D%3D"
-			(at 195.58 93.98 0)
+			(at 215.9 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34484,7 +34467,7 @@
 			)
 		)
 		(property "Cost" "1147"
-			(at 195.58 93.98 0)
+			(at 215.9 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37332,16 +37315,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 198.12 101.6 0)
+		(at 218.44 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a828ab90-2cc8-455f-af5f-c90a5c19aaed")
 		(property "Reference" "#PWR05"
-			(at 198.12 107.95 0)
+			(at 218.44 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37350,7 +37332,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 198.12 106.68 0)
+			(at 222.758 104.902 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37358,7 +37340,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 198.12 101.6 0)
+			(at 218.44 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37367,7 +37349,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 101.6 0)
+			(at 218.44 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37376,7 +37358,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 198.12 101.6 0)
+			(at 218.44 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38773,7 +38755,7 @@
 	)
 	(symbol
 		(lib_id "New_Library:IRFZ44N")
-		(at 223.52 86.36 0)
+		(at 252.73 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38782,7 +38764,7 @@
 		(fields_autoplaced yes)
 		(uuid "b574db8e-e24d-424e-a77c-5bdcf08cac1f")
 		(property "Reference" "Q2"
-			(at 229.87 85.09 0)
+			(at 259.08 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38791,7 +38773,7 @@
 			)
 		)
 		(property "Value" "IRFZ44NPBF"
-			(at 229.87 87.63 0)
+			(at 259.08 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38800,7 +38782,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabUp"
-			(at 229.87 88.265 0)
+			(at 259.08 89.535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38811,7 +38793,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.kr/datasheet/2/196/Infineon_IRFZ44N_DataSheet_v01_01_EN-3166504.pdf"
-			(at 223.52 86.36 0)
+			(at 252.73 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38821,7 +38803,7 @@
 			)
 		)
 		(property "Description" "MOSFET MOSFT 55V 49A 17.5mOhm 42nC"
-			(at 223.52 86.36 0)
+			(at 252.73 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38830,7 +38812,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "IRFZ44NPBF"
-			(at 223.52 86.36 0)
+			(at 252.73 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38839,7 +38821,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Infineon Technologies"
-			(at 223.52 86.36 0)
+			(at 252.73 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38848,7 +38830,7 @@
 			)
 		)
 		(property "Mouser Part Number" "942-IRFZ44NPBF"
-			(at 223.52 86.36 0)
+			(at 252.73 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38857,7 +38839,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.kr/ProductDetail/Infineon-Technologies/IRFZ44NPBF?qs=9%252BKlkBgLFf24zghzPg2f9g%3D%3D"
-			(at 223.52 86.36 0)
+			(at 252.73 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38866,7 +38848,7 @@
 			)
 		)
 		(property "Cost" "1470"
-			(at 223.52 86.36 0)
+			(at 252.73 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38977,7 +38959,7 @@
 			)
 		)
 		(property "Value" "ZXTN2010ZTA"
-			(at 222.25 30.48 0)
+			(at 200.914 31.242 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39821,7 +39803,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:2SD1047")
-		(at 195.58 78.74 0)
+		(at 215.9 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -39829,7 +39811,7 @@
 		(dnp no)
 		(uuid "bdcc8d65-bd7d-4218-a019-cb368551ec25")
 		(property "Reference" "Q4"
-			(at 200.66 77.47 0)
+			(at 220.98 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39838,7 +39820,7 @@
 			)
 		)
 		(property "Value" "ZXTN2010ZTA"
-			(at 201.93 74.93 0)
+			(at 201.676 75.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39847,7 +39829,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-89-3"
-			(at 201.93 80.645 0)
+			(at 222.25 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39858,7 +39840,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.st.com/resource/en/datasheet/2sd1047.pdf"
-			(at 195.58 78.74 0)
+			(at 215.9 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39868,7 +39850,7 @@
 			)
 		)
 		(property "Description" "양극성 트랜지스터 - BJT 60V NPN Med Power"
-			(at 195.58 78.74 0)
+			(at 215.9 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39877,7 +39859,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" " ZXTN2010ZTA"
-			(at 195.58 78.74 0)
+			(at 215.9 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39886,7 +39868,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Diodes Incorporated"
-			(at 195.58 78.74 0)
+			(at 215.9 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39895,7 +39877,7 @@
 			)
 		)
 		(property "Mouser Part Number" "522-ZXTN2010ZTA"
-			(at 195.58 78.74 0)
+			(at 215.9 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39904,7 +39886,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.kr/ProductDetail/Diodes-Incorporated/ZXTN2010ZTA?qs=ADLKDuV5mO5mRC20V3WXVw%3D%3D"
-			(at 195.58 78.74 0)
+			(at 215.9 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39913,7 +39895,7 @@
 			)
 		)
 		(property "Cost" "1100"
-			(at 195.58 78.74 0)
+			(at 215.9 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43371,7 +43353,7 @@
 	(symbol
 		(lib_name "RC2012F_SQR_1")
 		(lib_id "RC2012F100CS:RC2012F_SQR")
-		(at 205.74 83.82 180)
+		(at 226.06 85.09 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43379,7 +43361,7 @@
 		(dnp no)
 		(uuid "dedcaa82-1519-4426-94d8-8516415ad0a0")
 		(property "Reference" "R2"
-			(at 204.216 81.28 0)
+			(at 229.87 83.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43388,7 +43370,7 @@
 			)
 		)
 		(property "Value" "10"
-			(at 203.708 83.82 0)
+			(at 224.028 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43397,7 +43379,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 205.74 85.344 0)
+			(at 226.06 86.614 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43407,7 +43389,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.kr/ProductDetail/Samsung-Electro-Mechanics/RC2012J105CS?qs=%252Bww9O3qizfGeFGjlxfx3tg%3D%3D"
-			(at 205.74 83.82 0)
+			(at 226.06 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43416,7 +43398,7 @@
 			)
 		)
 		(property "Description" "후막 저항기 - SMD Resistor, 0805, 10ohm, 1/8W, +/-100ppm, +/-5%"
-			(at 205.74 83.82 0)
+			(at 226.06 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43425,7 +43407,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC2012J100CS"
-			(at 205.74 83.82 0)
+			(at 226.06 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43434,7 +43416,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Samsung Electro-Mechanics"
-			(at 205.74 83.82 0)
+			(at 226.06 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43443,7 +43425,7 @@
 			)
 		)
 		(property "Mouser Part Number" "Nop"
-			(at 205.74 83.82 0)
+			(at 226.06 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43452,7 +43434,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.kr/ProductDetail/Samsung-Electro-Mechanics/RC2012J105CS?qs=%252Bww9O3qizfGeFGjlxfx3tg%3D%3D"
-			(at 205.74 83.82 0)
+			(at 226.06 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43461,7 +43443,7 @@
 			)
 		)
 		(property "Cost" "100"
-			(at 205.74 83.82 0)
+			(at 226.06 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44730,7 +44712,7 @@
 	(symbol
 		(lib_name "RC2012F_SQR_1")
 		(lib_id "RC2012F100CS:RC2012F_SQR")
-		(at 217.17 93.98 270)
+		(at 237.49 93.98 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -44738,7 +44720,7 @@
 		(dnp no)
 		(uuid "eb6d6226-8f54-4f38-bab4-3e80822db80b")
 		(property "Reference" "R4"
-			(at 214.63 95.504 0)
+			(at 234.95 95.504 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44747,7 +44729,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 217.17 96.012 0)
+			(at 237.49 96.012 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44756,7 +44738,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 218.694 93.98 0)
+			(at 239.014 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44766,7 +44748,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.kr/ProductDetail/Samsung-Electro-Mechanics/RC2012J105CS?qs=%252Bww9O3qizfGeFGjlxfx3tg%3D%3D"
-			(at 217.17 93.98 0)
+			(at 237.49 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44775,7 +44757,7 @@
 			)
 		)
 		(property "Description" "후막 저항기 - SMD Resistor, 0805, 10Kohm, 1/8W, +/-100ppm, +/-5%"
-			(at 217.17 93.98 0)
+			(at 237.49 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44784,7 +44766,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC2012J103CS"
-			(at 217.17 93.98 0)
+			(at 237.49 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44793,7 +44775,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Samsung Electro-Mechanics"
-			(at 217.17 93.98 0)
+			(at 237.49 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44802,7 +44784,7 @@
 			)
 		)
 		(property "Mouser Part Number" "Nop"
-			(at 217.17 93.98 0)
+			(at 237.49 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44811,7 +44793,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.kr/ProductDetail/Samsung-Electro-Mechanics/RC2012J105CS?qs=%252Bww9O3qizfGeFGjlxfx3tg%3D%3D"
-			(at 217.17 93.98 0)
+			(at 237.49 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44820,7 +44802,7 @@
 			)
 		)
 		(property "Cost" "100"
-			(at 217.17 93.98 0)
+			(at 237.49 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
