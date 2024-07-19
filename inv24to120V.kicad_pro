@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.7,
-          "height": 2.55,
-          "width": 2.55
+          "drill": 1.5,
+          "height": 4.0,
+          "width": 4.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -186,7 +186,8 @@
         0.5,
         1.0,
         2.0,
-        3.0
+        3.0,
+        5.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -230,6 +231,18 @@
         {
           "diameter": 0.8,
           "drill": 0.5
+        },
+        {
+          "diameter": 1.2,
+          "drill": 0.0
+        },
+        {
+          "diameter": 1.2,
+          "drill": 0.8
+        },
+        {
+          "diameter": 1.2,
+          "drill": 0.8
         },
         {
           "diameter": 1.2,
@@ -495,14 +508,14 @@
       "version": 3
     },
     "net_colors": {
-      "+15V": "rgb(255, 255, 0)",
+      "+15V": "rgb(194, 0, 194)",
       "+3.3V": "rgb(255, 27, 240)",
-      "+5V": "rgb(255, 55, 17)",
+      "+5V": "rgb(194, 0, 194)",
       "GND": "rgb(0, 132, 0)",
       "GND1": "rgb(0, 255, 0)",
       "GND2": "rgb(0, 255, 255)",
       "GNDPWR": "rgb(0, 255, 0)",
-      "VBUS": "rgb(255, 0, 255)"
+      "VBUS": "rgb(255, 255, 0)"
     },
     "netclass_assignments": null,
     "netclass_patterns": []
@@ -512,7 +525,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "/home/ew/Documents/panCtrlGeber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
